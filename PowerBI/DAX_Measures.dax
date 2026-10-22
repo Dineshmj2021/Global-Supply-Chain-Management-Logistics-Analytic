@@ -1,0 +1,222 @@
+/* ==============================================================================
+   SUPPLY CHAIN MANAGEMENT POWER BI ANALYTICS - DAX MEASURES BIBLE
+   Author: Lead Supply Chain Data Analyst
+   Target Table: _Measures
+   Architecture: Kimball Multi-Fact Star Schema
+============================================================================== */
+
+// ==============================================================================
+// 1. ORDER & FULFILLMENT KPIs
+// ==============================================================================
+
+[Total Orders] = 
+COUNTROWS(Fact_Orders_Shipments)
+
+[Total Volume Ordered] = 
+SUM(Fact_Orders_Shipments[OrderQuantity])
+
+[Total Volume Delivered] = 
+SUM(Fact_Orders_Shipments[DeliveredQuantity])
+
+[Orders Delivered On-Time] = 
+CALCULATE(
+    COUNTROWS(Fact_Orders_Shipments),
+    Fact_Orders_Shipments[OnTimeFlag] = 1
+)
+
+[Orders Delivered In-Full] = 
+CALCULATE(
+    COUNTROWS(Fact_Orders_Shipments),
+    Fact_Orders_Shipments[InFullFlag] = 1
+)
+
+[Orders OTIF] = 
+CALCULATE(
+    COUNTROWS(Fact_Orders_Shipments),
+    Fact_Orders_Shipments[OTIFFlag] = 1
+)
+
+-- Primary Supply Chain Executive Metric: On-Time In-Full Rate %
+[OTIF Rate %] = 
+DIVIDE([Orders OTIF], [Total Orders], 0)
+
+[On-Time Delivery Rate %] = 
+DIVIDE([Orders Delivered On-Time], [Total Orders], 0)
+
+[In-Full Delivery Rate %] = 
+DIVIDE([Orders Delivered In-Full], [Total Orders], 0)
+
+[OTIF Target %] = 
+0.92  -- 92.0% Corporate SLA Target
+
+[OTIF SLA Gap %] = 
+[OTIF Rate %] - [OTIF Target %]
+
+[Avg Fulfillment Cycle Time (Days)] = 
+AVERAGE(Fact_Orders_Shipments[FulfillmentCycleDays])
+
+[Avg Delay Days (Late Orders Only)] = 
+CALCULATE(
+    AVERAGE(Fact_Orders_Shipments[DeliveryDelayDays]),
+    Fact_Orders_Shipments[DeliveryDelayDays] > 0
+)
+
+[Total Returns] = 
+CALCULATE(
+    COUNTROWS(Fact_Orders_Shipments),
+    Fact_Orders_Shipments[ReturnFlag] = 1
+)
+
+[Return Rate %] = 
+DIVIDE([Total Returns], [Total Orders], 0)
+
+
+// ==============================================================================
+// 2. FINANCIAL & LOGISTICS COST PERFORMANCE
+// ==============================================================================
+
+[Total Revenue] = 
+SUM(Fact_Orders_Shipments[GrossRevenue])
+
+[Total COGS] = 
+SUM(Fact_Orders_Shipments[COGS])
+
+[Gross Profit] = 
+[Total Revenue] - [Total COGS]
+
+[Gross Margin %] = 
+DIVIDE([Gross Profit], [Total Revenue], 0)
+
+[Total Freight Cost] = 
+SUM(Fact_Orders_Shipments[FreightCost])
+
+[Freight Cost % of Revenue] = 
+DIVIDE([Total Freight Cost], [Total Revenue], 0)
+
+[Freight Cost per Unit Delivered] = 
+DIVIDE([Total Freight Cost], [Total Volume Delivered], 0)
+
+[Net Operating Margin] = 
+SUM(Fact_Orders_Shipments[NetMargin])
+
+[Net Margin %] = 
+DIVIDE([Net Operating Margin], [Total Revenue], 0)
+
+
+// ==============================================================================
+// 3. INVENTORY HEALTH & WAREHOUSE METRICS
+// ==============================================================================
+
+[Total Stock On Hand] = 
+SUM(Fact_Inventory_Levels[StockOnHand])
+
+[Total Safety Stock] = 
+SUM(Fact_Inventory_Levels[SafetyStock])
+
+[Total Inventory Value] = 
+SUM(Fact_Inventory_Levels[InventoryValueUSD])
+
+[Avg Days of Inventory on Hand (DOH)] = 
+AVERAGE(Fact_Inventory_Levels[DaysOfSupplyOnHand])
+
+[SKUs at Stockout Risk] = 
+CALCULATE(
+    DISTINCTCOUNT(Fact_Inventory_Levels[ProductID]),
+    Fact_Inventory_Levels[StockoutRiskFlag] = 1
+)
+
+[Overstocked SKUs Count] = 
+CALCULATE(
+    DISTINCTCOUNT(Fact_Inventory_Levels[ProductID]),
+    Fact_Inventory_Levels[OverstockFlag] = 1
+)
+
+[Warehouse Capacity Utilization %] = 
+VAR TotalStock = [Total Stock On Hand]
+VAR TotalCapacity = SUM(Dim_Warehouses[MaxCapacityUnits])
+RETURN
+    DIVIDE(TotalStock, TotalCapacity, 0)
+
+
+// ==============================================================================
+// 4. PROCUREMENT & SUPPLIER SCORECARD METRICS
+// ==============================================================================
+
+[Total Purchase Orders] = 
+COUNTROWS(Fact_Procurement_POs)
+
+[Total Sourcing Spend] = 
+SUM(Fact_Procurement_POs[POSpendUSD])
+
+[Supplier On-Time POs] = 
+CALCULATE(
+    COUNTROWS(Fact_Procurement_POs),
+    Fact_Procurement_POs[SupplierOnTimeFlag] = 1
+)
+
+[Supplier OTIF POs] = 
+CALCULATE(
+    COUNTROWS(Fact_Procurement_POs),
+    Fact_Procurement_POs[SupplierOTIFFlag] = 1
+)
+
+[Supplier OTIF %] = 
+DIVIDE([Supplier OTIF POs], [Total Purchase Orders], 0)
+
+[Avg Supplier Lead Time (Days)] = 
+AVERAGE(Fact_Procurement_POs[ActualLeadTimeDays])
+
+[Avg Agreed Lead Time (Days)] = 
+AVERAGE(Fact_Procurement_POs[AgreedLeadTimeDays])
+
+[Supplier Lead Time Variance (Days)] = 
+AVERAGE(Fact_Procurement_POs[LeadTimeVarianceDays])
+
+[Total Defective Units Received] = 
+SUM(Fact_Procurement_POs[DefectQty])
+
+[Total Units Received at Dock] = 
+SUM(Fact_Procurement_POs[ReceivedQty])
+
+[Supplier Defect Rate %] = 
+DIVIDE([Total Defective Units Received], [Total Units Received at Dock], 0)
+
+[Defect Rate Benchmark %] = 
+0.015 -- 1.5% Maximum SLA Quality Tolerance
+
+
+// ==============================================================================
+// 5. TIME INTELLIGENCE & CONDITIONAL FORMATTING
+// ==============================================================================
+
+[OTIF Rate % SPLY] = 
+CALCULATE(
+    [OTIF Rate %],
+    SAMEPERIODLASTYEAR(Dim_Date[Date])
+)
+
+[Revenue SPLY] = 
+CALCULATE(
+    [Total Revenue],
+    SAMEPERIODLASTYEAR(Dim_Date[Date])
+)
+
+[Revenue YoY Growth %] = 
+DIVIDE([Total Revenue] - [Revenue SPLY], [Revenue SPLY], 0)
+
+-- Hex Color Code for Dynamic Card Formatting
+[OTIF Status Color] = 
+SWITCH(
+    TRUE(),
+    [OTIF Rate %] >= 0.92, "#10B981",  -- Emerald Green (Target Met)
+    [OTIF Rate %] >= 0.85, "#F59E0B",  -- Amber (At Risk)
+    "#EF4444"                          -- Coral Red (SLA Breach)
+)
+
+[Inventory Health Color] = 
+SWITCH(
+    TRUE(),
+    [SKUs at Stockout Risk] > 5, "#EF4444", -- Critical Alert
+    [SKUs at Stockout Risk] > 0, "#F59E0B", -- Warning
+    "#10B981"                               -- Healthy
+)

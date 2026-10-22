@@ -1,0 +1,1435 @@
+CustomerID,CustomerName,Country,CustomerSegment,CreditRating,AccountManager
+CUST-093,Osaka Global Trading (CUST-093),Japan,Strategic Account,AAA,AM_02
+CUST-109,Lumière Distribution SA (CUST-109),France,Enterprise,AAA,AM_02
+CUST-002,Stuttgart Fabrik UG (CUST-002),Germany,Mid-Market,A,AM_01
+CUST-025,Great Northern Freight (CUST-025),Canada,Mid-Market,AA,AM_02
+CUST-119,Lumière Distribution SA (CUST-119),France,Enterprise,A,AM_01
+CUST-016,Crown Maritime Stores (CUST-016),UK,Enterprise,AA,AM_03
+CUST-081,Apex Industrial Supply (CUST-081),USA,Strategic Account,A,AM_01
+CUST-108,Lion City Logistics (CUST-108),Singapore,Enterprise,A,AM_01
+CUST-055,Global Commercial Partner (CUST-055),India,Enterprise,A,AM_03
+CUST-035,Kanto Components Co (CUST-035),Japan,Enterprise,AA,AM_04
+CUST-109,Kanto Components Co (CUST-109),Japan,Enterprise,AAA,AM_02
+CUST-094,Crestview Retailers (CUST-094),USA,Mid-Market,A,AM_03
+CUST-046,Global Commercial Partner (CUST-046),Netherlands,Strategic Account,AA,AM_04
+CUST-059,Haute Garonne Industries (CUST-059),France,Strategic Account,A,AM_04
+CUST-112,Global Commercial Partner (CUST-112),Netherlands,Mid-Market,AAA,AM_05
+CUST-032,Osaka Global Trading (CUST-032),Japan,Strategic Account,A,AM_05
+CUST-078,Kanto Components Co (CUST-078),Japan,Enterprise,AAA,AM_04
+CUST-058,Parisienne Logistique (CUST-058),France,Mid-Market,A,AM_05
+CUST-046,Global Commercial Partner (CUST-046),India,Strategic Account,AA,AM_04
+CUST-115,Albion Commerce Ltd (CUST-115),UK,Enterprise,AAA,AM_02
+CUST-040,Lumière Distribution SA (CUST-040),France,Enterprise,A,AM_03
+CUST-100,Great Northern Freight (CUST-100),Canada,Mid-Market,AAA,AM_02
+CUST-007,Pacific Horizon Ltd (CUST-007),Canada,Strategic Account,A,AM_03
+CUST-121,Delta Global Tech (CUST-121),USA,Enterprise,AA,AM_04
+CUST-120,Nippon Systems K.K. (CUST-120),Japan,Mid-Market,AA,AM_03
+CUST-063,Stuttgart Fabrik UG (CUST-063),Germany,Mid-Market,A,AM_02
+CUST-126,Nordic Electro AG (CUST-126),Germany,Strategic Account,AA,AM_03
+CUST-023,Nippon Systems K.K. (CUST-023),Japan,Mid-Market,A,AM_05
+CUST-022,Haute Garonne Industries (CUST-022),France,Strategic Account,A,AM_05
+CUST-089,Maple Leaf Outfitting (CUST-089),Canada,Enterprise,A,AM_05
+CUST-026,Parisienne Logistique (CUST-026),France,Mid-Market,AAA,AM_02
+CUST-113,Global Commercial Partner (CUST-113),Netherlands,Mid-Market,A,AM_02
+CUST-058,Global Commercial Partner (CUST-058),India,Mid-Market,A,AM_05
+CUST-020,Vanguard Electronics (CUST-020),UK,Mid-Market,A,AM_05
+CUST-140,Lumière Distribution SA (CUST-140),France,Enterprise,AA,AM_04
+CUST-070,Global Commercial Partner (CUST-070),India,Enterprise,AAA,AM_01
+CUST-133,Southern Cross Merchants (CUST-133),Australia,Enterprise,AAA,AM_02
+CUST-103,Global Commercial Partner (CUST-103),India,Mid-Market,AAA,AM_03
+CUST-014,Haute Garonne Industries (CUST-014),France,Strategic Account,A,AM_02
+CUST-040,Southern Cross Merchants (CUST-040),Australia,Enterprise,A,AM_03
+CUST-107,Global Commercial Partner (CUST-107),Netherlands,Mid-Market,AA,AM_02
+CUST-083,Parisienne Logistique (CUST-083),France,Mid-Market,AAA,AM_01
+CUST-085,Stuttgart Fabrik UG (CUST-085),Germany,Mid-Market,A,AM_03
+CUST-085,Global Commercial Partner (CUST-085),India,Mid-Market,A,AM_03
+CUST-026,Sydney Supply Hub (CUST-026),Australia,Mid-Market,AAA,AM_02
+CUST-021,Straits Trading Hub (CUST-021),Singapore,Strategic Account,AAA,AM_04
+CUST-089,Lion City Logistics (CUST-089),Singapore,Enterprise,A,AM_05
+CUST-145,Delta Global Tech (CUST-145),USA,Mid-Market,A,AM_04
+CUST-094,Thames Logistics PLC (CUST-094),UK,Mid-Market,A,AM_03
+CUST-096,Nordic Electro AG (CUST-096),Germany,Mid-Market,AA,AM_03
+CUST-078,Southern Cross Merchants (CUST-078),Australia,Enterprise,AAA,AM_04
+CUST-072,Delta Global Tech (CUST-072),USA,Mid-Market,A,AM_04
+CUST-006,Beacon Logistics Corp (CUST-006),USA,Strategic Account,A,AM_02
+CUST-034,Global Commercial Partner (CUST-034),India,Enterprise,AA,AM_02
+CUST-017,Sydney Supply Hub (CUST-017),Australia,Mid-Market,A,AM_05
+CUST-103,Great Northern Freight (CUST-103),Canada,Mid-Market,AAA,AM_03
+CUST-130,Straits Trading Hub (CUST-130),Singapore,Strategic Account,A,AM_02
+CUST-081,Osaka Global Trading (CUST-081),Japan,Strategic Account,A,AM_01
+CUST-109,Beacon Logistics Corp (CUST-109),USA,Enterprise,AAA,AM_02
+CUST-143,Delta Global Tech (CUST-143),USA,Mid-Market,A,AM_04
+CUST-008,Rhine Valley Distribution (CUST-008),Germany,Enterprise,A,AM_04
+CUST-109,Southern Cross Merchants (CUST-109),Australia,Enterprise,AAA,AM_02
+CUST-036,Kanto Components Co (CUST-036),Japan,Enterprise,AAA,AM_03
+CUST-118,Nordic Electro AG (CUST-118),Germany,Mid-Market,AA,AM_04
+CUST-063,Great Northern Freight (CUST-063),Canada,Mid-Market,A,AM_02
+CUST-038,Osaka Global Trading (CUST-038),Japan,Strategic Account,A,AM_04
+CUST-039,Outback Wholesale Pty (CUST-039),Australia,Strategic Account,AA,AM_03
+CUST-130,Pacific Horizon Ltd (CUST-130),Canada,Strategic Account,A,AM_02
+CUST-130,Vanguard Electronics (CUST-130),UK,Strategic Account,A,AM_02
+CUST-025,Global Commercial Partner (CUST-025),India,Mid-Market,AA,AM_02
+CUST-097,Global Commercial Partner (CUST-097),Netherlands,Strategic Account,A,AM_02
+CUST-036,Albion Commerce Ltd (CUST-036),UK,Enterprise,AAA,AM_03
+CUST-043,Outback Wholesale Pty (CUST-043),Australia,Strategic Account,A,AM_02
+CUST-147,Southern Cross Merchants (CUST-147),Australia,Enterprise,AAA,AM_04
+CUST-133,Bavaria Precision GmbH (CUST-133),Germany,Enterprise,AAA,AM_02
+CUST-061,Great Northern Freight (CUST-061),Canada,Mid-Market,AAA,AM_02
+CUST-128,Marina Bay Sourcing (CUST-128),Singapore,Mid-Market,AA,AM_04
+CUST-130,Global Commercial Partner (CUST-130),India,Strategic Account,A,AM_02
+CUST-091,Global Commercial Partner (CUST-091),India,Enterprise,AAA,AM_03
+CUST-140,Southern Cross Merchants (CUST-140),Australia,Enterprise,AA,AM_04
+CUST-048,Outback Wholesale Pty (CUST-048),Australia,Strategic Account,AA,AM_02
+CUST-110,Vanguard Electronics (CUST-110),UK,Strategic Account,A,AM_04
+CUST-113,Beacon Logistics Corp (CUST-113),USA,Mid-Market,A,AM_02
+CUST-136,Global Commercial Partner (CUST-136),Netherlands,Strategic Account,AAA,AM_03
+CUST-052,Nordic Electro AG (CUST-052),Germany,Strategic Account,AA,AM_05
+CUST-045,Global Commercial Partner (CUST-045),Netherlands,Strategic Account,A,AM_04
+CUST-123,Global Commercial Partner (CUST-123),India,Mid-Market,A,AM_04
+CUST-129,Beacon Logistics Corp (CUST-129),USA,Mid-Market,A,AM_02
+CUST-024,Global Commercial Partner (CUST-024),India,Enterprise,AAA,AM_03
+CUST-008,Southern Cross Merchants (CUST-008),Australia,Enterprise,A,AM_04
+CUST-088,Lion City Logistics (CUST-088),Singapore,Enterprise,A,AM_02
+CUST-075,Great Northern Freight (CUST-075),Canada,Mid-Market,A,AM_03
+CUST-118,Parisienne Logistique (CUST-118),France,Mid-Market,AA,AM_04
+CUST-103,Crestview Retailers (CUST-103),USA,Mid-Market,AAA,AM_03
+CUST-143,Global Commercial Partner (CUST-143),Netherlands,Mid-Market,A,AM_04
+CUST-082,Vanguard Electronics (CUST-082),UK,Strategic Account,A,AM_02
+CUST-007,Straits Trading Hub (CUST-007),Singapore,Strategic Account,A,AM_03
+CUST-108,Vanguard Electronics (CUST-108),UK,Enterprise,A,AM_01
+CUST-118,Global Commercial Partner (CUST-118),India,Mid-Market,AA,AM_04
+CUST-090,Global Commercial Partner (CUST-090),India,Mid-Market,AA,AM_04
+CUST-123,Parisienne Logistique (CUST-123),France,Mid-Market,A,AM_04
+CUST-036,Crestview Retailers (CUST-036),USA,Enterprise,AAA,AM_03
+CUST-010,Albion Commerce Ltd (CUST-010),UK,Mid-Market,AAA,AM_05
+CUST-050,Bavaria Precision GmbH (CUST-050),Germany,Mid-Market,AAA,AM_03
+CUST-084,Bavaria Precision GmbH (CUST-084),Germany,Strategic Account,AAA,AM_03
+CUST-093,Haute Garonne Industries (CUST-093),France,Strategic Account,AAA,AM_02
+CUST-057,Haute Garonne Industries (CUST-057),France,Strategic Account,A,AM_02
+CUST-117,Albion Commerce Ltd (CUST-117),UK,Mid-Market,AAA,AM_05
+CUST-018,Southern Cross Merchants (CUST-018),Australia,Enterprise,A,AM_04
+CUST-090,Nordic Electro AG (CUST-090),Germany,Mid-Market,AA,AM_04
+CUST-089,Thames Logistics PLC (CUST-089),UK,Enterprise,A,AM_05
+CUST-060,Global Commercial Partner (CUST-060),India,Strategic Account,A,AM_03
+CUST-143,Marina Bay Sourcing (CUST-143),Singapore,Mid-Market,A,AM_04
+CUST-058,Nippon Systems K.K. (CUST-058),Japan,Mid-Market,A,AM_05
+CUST-138,Parisienne Logistique (CUST-138),France,Mid-Market,AA,AM_04
+CUST-031,Sydney Supply Hub (CUST-031),Australia,Mid-Market,A,AM_04
+CUST-082,Haute Garonne Industries (CUST-082),France,Strategic Account,A,AM_02
+CUST-126,Outback Wholesale Pty (CUST-126),Australia,Strategic Account,AA,AM_03
+CUST-036,Lumière Distribution SA (CUST-036),France,Enterprise,AAA,AM_03
+CUST-071,Global Commercial Partner (CUST-071),India,Mid-Market,AAA,AM_05
+CUST-063,Parisienne Logistique (CUST-063),France,Mid-Market,A,AM_02
+CUST-145,Stuttgart Fabrik UG (CUST-145),Germany,Mid-Market,A,AM_04
+CUST-037,Maple Leaf Outfitting (CUST-037),Canada,Enterprise,A,AM_03
+CUST-014,Stuttgart Fabrik UG (CUST-014),Germany,Strategic Account,A,AM_02
+CUST-150,Pacific Horizon Ltd (CUST-150),Canada,Strategic Account,AA,AM_05
+CUST-034,Nordic Electro AG (CUST-034),Germany,Enterprise,AA,AM_02
+CUST-063,Marina Bay Sourcing (CUST-063),Singapore,Mid-Market,A,AM_02
+CUST-127,Straits Trading Hub (CUST-127),Singapore,Strategic Account,AAA,AM_01
+CUST-052,Outback Wholesale Pty (CUST-052),Australia,Strategic Account,AA,AM_05
+CUST-141,Empire Wholesale Group (CUST-141),USA,Enterprise,A,AM_05
+CUST-040,Maple Leaf Outfitting (CUST-040),Canada,Enterprise,A,AM_03
+CUST-022,Rhine Valley Distribution (CUST-022),Germany,Strategic Account,A,AM_05
+CUST-148,Lumière Distribution SA (CUST-148),France,Enterprise,AAA,AM_04
+CUST-088,Southern Cross Merchants (CUST-088),Australia,Enterprise,A,AM_02
+CUST-063,Global Commercial Partner (CUST-063),India,Mid-Market,A,AM_02
+CUST-110,Pacific Horizon Ltd (CUST-110),Canada,Strategic Account,A,AM_04
+CUST-081,Straits Trading Hub (CUST-081),Singapore,Strategic Account,A,AM_01
+CUST-037,Global Commercial Partner (CUST-037),India,Enterprise,A,AM_03
+CUST-014,Global Commercial Partner (CUST-014),Netherlands,Strategic Account,A,AM_02
+CUST-071,Parisienne Logistique (CUST-071),France,Mid-Market,AAA,AM_05
+CUST-090,Marina Bay Sourcing (CUST-090),Singapore,Mid-Market,AA,AM_04
+CUST-035,Maple Leaf Outfitting (CUST-035),Canada,Enterprise,AA,AM_04
+CUST-097,Outback Wholesale Pty (CUST-097),Australia,Strategic Account,A,AM_02
+CUST-092,Rhine Valley Distribution (CUST-092),Germany,Enterprise,A,AM_01
+CUST-118,Delta Global Tech (CUST-118),USA,Mid-Market,AA,AM_04
+CUST-043,Beacon Logistics Corp (CUST-043),USA,Strategic Account,A,AM_02
+CUST-088,Rhine Valley Distribution (CUST-088),Germany,Enterprise,A,AM_02
+CUST-037,Rhine Valley Distribution (CUST-037),Germany,Enterprise,A,AM_03
+CUST-099,Global Commercial Partner (CUST-099),Netherlands,Strategic Account,AAA,AM_02
+CUST-131,Parisienne Logistique (CUST-131),France,Mid-Market,A,AM_05
+CUST-108,Global Commercial Partner (CUST-108),Netherlands,Enterprise,A,AM_01
+CUST-138,Global Commercial Partner (CUST-138),India,Mid-Market,AA,AM_04
+CUST-023,Great Northern Freight (CUST-023),Canada,Mid-Market,A,AM_05
+CUST-033,Nippon Systems K.K. (CUST-033),Japan,Mid-Market,A,AM_02
+CUST-043,Global Commercial Partner (CUST-043),Netherlands,Strategic Account,A,AM_02
+CUST-142,Maple Leaf Outfitting (CUST-142),Canada,Enterprise,A,AM_02
+CUST-072,Rhine Valley Distribution (CUST-072),Germany,Mid-Market,A,AM_04
+CUST-034,Lumière Distribution SA (CUST-034),France,Enterprise,AA,AM_02
+CUST-092,Lumière Distribution SA (CUST-092),France,Enterprise,A,AM_01
+CUST-077,Kanto Components Co (CUST-077),Japan,Enterprise,AAA,AM_02
+CUST-022,Straits Trading Hub (CUST-022),Singapore,Strategic Account,A,AM_05
+CUST-128,Delta Global Tech (CUST-128),USA,Mid-Market,AA,AM_04
+CUST-036,Maple Leaf Outfitting (CUST-036),Canada,Enterprise,AAA,AM_03
+CUST-070,Albion Commerce Ltd (CUST-070),UK,Enterprise,AAA,AM_01
+CUST-100,Global Commercial Partner (CUST-100),Netherlands,Mid-Market,AAA,AM_02
+CUST-080,Thames Logistics PLC (CUST-080),UK,Strategic Account,A,AM_05
+CUST-038,Straits Trading Hub (CUST-038),Singapore,Strategic Account,A,AM_04
+CUST-045,Global Commercial Partner (CUST-045),India,Strategic Account,A,AM_04
+CUST-027,Southern Cross Merchants (CUST-027),Australia,Enterprise,AA,AM_05
+CUST-028,Beacon Logistics Corp (CUST-028),USA,Strategic Account,AA,AM_02
+CUST-082,Osaka Global Trading (CUST-082),Japan,Strategic Account,A,AM_02
+CUST-026,Global Commercial Partner (CUST-026),Netherlands,Mid-Market,AAA,AM_02
+CUST-098,Global Commercial Partner (CUST-098),Netherlands,Strategic Account,AAA,AM_05
+CUST-059,Global Commercial Partner (CUST-059),India,Strategic Account,A,AM_04
+CUST-133,Lion City Logistics (CUST-133),Singapore,Enterprise,AAA,AM_02
+CUST-082,Stuttgart Fabrik UG (CUST-082),Germany,Strategic Account,A,AM_02
+CUST-150,Nordic Electro AG (CUST-150),Germany,Strategic Account,AA,AM_05
+CUST-085,Parisienne Logistique (CUST-085),France,Mid-Market,A,AM_03
+CUST-107,Marina Bay Sourcing (CUST-107),Singapore,Mid-Market,AA,AM_02
+CUST-146,Crestview Retailers (CUST-146),USA,Strategic Account,A,AM_03
+CUST-062,Global Commercial Partner (CUST-062),Netherlands,Strategic Account,A,AM_02
+CUST-090,Sydney Supply Hub (CUST-090),Australia,Mid-Market,AA,AM_04
+CUST-028,Outback Wholesale Pty (CUST-028),Australia,Strategic Account,AA,AM_02
+CUST-130,Osaka Global Trading (CUST-130),Japan,Strategic Account,A,AM_02
+CUST-098,Global Commercial Partner (CUST-098),India,Strategic Account,AAA,AM_05
+CUST-002,Apex Industrial Supply (CUST-002),USA,Mid-Market,A,AM_01
+CUST-075,Sydney Supply Hub (CUST-075),Australia,Mid-Market,A,AM_03
+CUST-044,Nordic Electro AG (CUST-044),Germany,Enterprise,AA,AM_03
+CUST-032,Global Commercial Partner (CUST-032),India,Strategic Account,A,AM_05
+CUST-031,Nippon Systems K.K. (CUST-031),Japan,Mid-Market,A,AM_04
+CUST-001,Apex Industrial Supply (CUST-001),USA,Strategic Account,A,AM_01
+CUST-013,Stuttgart Fabrik UG (CUST-013),Germany,Enterprise,A,AM_04
+CUST-069,Rhine Valley Distribution (CUST-069),Germany,Mid-Market,A,AM_02
+CUST-012,Bavaria Precision GmbH (CUST-012),Germany,Enterprise,AAA,AM_04
+CUST-099,Albion Commerce Ltd (CUST-099),UK,Strategic Account,AAA,AM_02
+CUST-143,Global Commercial Partner (CUST-143),India,Mid-Market,A,AM_04
+CUST-122,Global Commercial Partner (CUST-122),Netherlands,Strategic Account,A,AM_03
+CUST-051,Parisienne Logistique (CUST-051),France,Mid-Market,A,AM_01
+CUST-002,Global Commercial Partner (CUST-002),India,Mid-Market,A,AM_01
+CUST-142,Lumière Distribution SA (CUST-142),France,Enterprise,A,AM_02
+CUST-137,Nippon Systems K.K. (CUST-137),Japan,Mid-Market,A,AM_03
+CUST-076,Haute Garonne Industries (CUST-076),France,Strategic Account,AAA,AM_05
+CUST-081,Global Commercial Partner (CUST-081),India,Strategic Account,A,AM_01
+CUST-031,Great Northern Freight (CUST-031),Canada,Mid-Market,A,AM_04
+CUST-136,Outback Wholesale Pty (CUST-136),Australia,Strategic Account,AAA,AM_03
+CUST-099,Osaka Global Trading (CUST-099),Japan,Strategic Account,AAA,AM_02
+CUST-017,Parisienne Logistique (CUST-017),France,Mid-Market,A,AM_05
+CUST-046,Osaka Global Trading (CUST-046),Japan,Strategic Account,AA,AM_04
+CUST-092,Global Commercial Partner (CUST-092),India,Enterprise,A,AM_01
+CUST-140,Kanto Components Co (CUST-140),Japan,Enterprise,AA,AM_04
+CUST-079,Lumière Distribution SA (CUST-079),France,Enterprise,A,AM_03
+CUST-019,Kanto Components Co (CUST-019),Japan,Enterprise,AA,AM_03
+CUST-040,Lion City Logistics (CUST-040),Singapore,Enterprise,A,AM_03
+CUST-115,Global Commercial Partner (CUST-115),Netherlands,Enterprise,AAA,AM_02
+CUST-149,Straits Trading Hub (CUST-149),Singapore,Strategic Account,AAA,AM_01
+CUST-129,Global Commercial Partner (CUST-129),India,Mid-Market,A,AM_02
+CUST-060,Rhine Valley Distribution (CUST-060),Germany,Strategic Account,A,AM_03
+CUST-146,Vanguard Electronics (CUST-146),UK,Strategic Account,A,AM_03
+CUST-113,Vanguard Electronics (CUST-113),UK,Mid-Market,A,AM_02
+CUST-073,Rhine Valley Distribution (CUST-073),Germany,Enterprise,A,AM_02
+CUST-024,Southern Cross Merchants (CUST-024),Australia,Enterprise,AAA,AM_03
+CUST-066,Southern Cross Merchants (CUST-066),Australia,Enterprise,A,AM_04
+CUST-028,Crown Maritime Stores (CUST-028),UK,Strategic Account,AA,AM_02
+CUST-144,Global Commercial Partner (CUST-144),India,Mid-Market,AA,AM_04
+CUST-015,Albion Commerce Ltd (CUST-015),UK,Strategic Account,AAA,AM_03
+CUST-091,Maple Leaf Outfitting (CUST-091),Canada,Enterprise,AAA,AM_03
+CUST-148,Delta Global Tech (CUST-148),USA,Enterprise,AAA,AM_04
+CUST-063,Global Commercial Partner (CUST-063),Netherlands,Mid-Market,A,AM_02
+CUST-003,Nippon Systems K.K. (CUST-003),Japan,Mid-Market,AAA,AM_02
+CUST-052,Haute Garonne Industries (CUST-052),France,Strategic Account,AA,AM_05
+CUST-139,Apex Industrial Supply (CUST-139),USA,Mid-Market,AAA,AM_01
+CUST-048,Global Commercial Partner (CUST-048),India,Strategic Account,AA,AM_02
+CUST-059,Rhine Valley Distribution (CUST-059),Germany,Strategic Account,A,AM_04
+CUST-081,Outback Wholesale Pty (CUST-081),Australia,Strategic Account,A,AM_01
+CUST-115,Bavaria Precision GmbH (CUST-115),Germany,Enterprise,AAA,AM_02
+CUST-102,Osaka Global Trading (CUST-102),Japan,Strategic Account,A,AM_02
+CUST-025,Nordic Electro AG (CUST-025),Germany,Mid-Market,AA,AM_02
+CUST-044,Crestview Retailers (CUST-044),USA,Enterprise,AA,AM_03
+CUST-123,Nippon Systems K.K. (CUST-123),Japan,Mid-Market,A,AM_04
+CUST-021,Pacific Horizon Ltd (CUST-021),Canada,Strategic Account,AAA,AM_04
+CUST-126,Haute Garonne Industries (CUST-126),France,Strategic Account,AA,AM_03
+CUST-096,Sydney Supply Hub (CUST-096),Australia,Mid-Market,AA,AM_03
+CUST-099,Outback Wholesale Pty (CUST-099),Australia,Strategic Account,AAA,AM_02
+CUST-134,Nordic Electro AG (CUST-134),Germany,Strategic Account,AA,AM_01
+CUST-040,Global Commercial Partner (CUST-040),Netherlands,Enterprise,A,AM_03
+CUST-060,Global Commercial Partner (CUST-060),Netherlands,Strategic Account,A,AM_03
+CUST-098,Albion Commerce Ltd (CUST-098),UK,Strategic Account,AAA,AM_05
+CUST-057,Straits Trading Hub (CUST-057),Singapore,Strategic Account,A,AM_02
+CUST-136,Crestview Retailers (CUST-136),USA,Strategic Account,AAA,AM_03
+CUST-143,Great Northern Freight (CUST-143),Canada,Mid-Market,A,AM_04
+CUST-096,Great Northern Freight (CUST-096),Canada,Mid-Market,AA,AM_03
+CUST-009,Nippon Systems K.K. (CUST-009),Japan,Mid-Market,A,AM_04
+CUST-118,Global Commercial Partner (CUST-118),Netherlands,Mid-Market,AA,AM_04
+CUST-148,Bavaria Precision GmbH (CUST-148),Germany,Enterprise,AAA,AM_04
+CUST-003,Great Northern Freight (CUST-003),Canada,Mid-Market,AAA,AM_02
+CUST-111,Nippon Systems K.K. (CUST-111),Japan,Mid-Market,A,AM_03
+CUST-147,Lumière Distribution SA (CUST-147),France,Enterprise,AAA,AM_04
+CUST-083,Global Commercial Partner (CUST-083),Netherlands,Mid-Market,AAA,AM_01
+CUST-029,Apex Industrial Supply (CUST-029),USA,Mid-Market,AAA,AM_01
+CUST-037,Crestview Retailers (CUST-037),USA,Enterprise,A,AM_03
+CUST-070,Global Commercial Partner (CUST-070),Netherlands,Enterprise,AAA,AM_01
+CUST-086,Sydney Supply Hub (CUST-086),Australia,Mid-Market,A,AM_05
+CUST-058,Vanguard Electronics (CUST-058),UK,Mid-Market,A,AM_05
+CUST-036,Lion City Logistics (CUST-036),Singapore,Enterprise,AAA,AM_03
+CUST-008,Global Commercial Partner (CUST-008),Netherlands,Enterprise,A,AM_04
+CUST-060,Crestview Retailers (CUST-060),USA,Strategic Account,A,AM_03
+CUST-106,Haute Garonne Industries (CUST-106),France,Strategic Account,AA,AM_02
+CUST-133,Beacon Logistics Corp (CUST-133),USA,Enterprise,AAA,AM_02
+CUST-129,Stuttgart Fabrik UG (CUST-129),Germany,Mid-Market,A,AM_02
+CUST-116,Global Commercial Partner (CUST-116),Netherlands,Mid-Market,A,AM_05
+CUST-108,Kanto Components Co (CUST-108),Japan,Enterprise,A,AM_01
+CUST-061,Parisienne Logistique (CUST-061),France,Mid-Market,AAA,AM_02
+CUST-148,Lion City Logistics (CUST-148),Singapore,Enterprise,AAA,AM_04
+CUST-077,Global Commercial Partner (CUST-077),Netherlands,Enterprise,AAA,AM_02
+CUST-074,Pacific Horizon Ltd (CUST-074),Canada,Strategic Account,AA,AM_01
+CUST-050,Crestview Retailers (CUST-050),USA,Mid-Market,AAA,AM_03
+CUST-137,Thames Logistics PLC (CUST-137),UK,Mid-Market,A,AM_03
+CUST-078,Albion Commerce Ltd (CUST-078),UK,Enterprise,AAA,AM_04
+CUST-080,Empire Wholesale Group (CUST-080),USA,Strategic Account,A,AM_05
+CUST-139,Global Commercial Partner (CUST-139),Netherlands,Mid-Market,AAA,AM_01
+CUST-025,Sydney Supply Hub (CUST-025),Australia,Mid-Market,AA,AM_02
+CUST-125,Delta Global Tech (CUST-125),USA,Mid-Market,AAA,AM_04
+CUST-119,Maple Leaf Outfitting (CUST-119),Canada,Enterprise,A,AM_01
+CUST-061,Albion Commerce Ltd (CUST-061),UK,Mid-Market,AAA,AM_02
+CUST-115,Lumière Distribution SA (CUST-115),France,Enterprise,AAA,AM_02
+CUST-095,Global Commercial Partner (CUST-095),India,Enterprise,A,AM_03
+CUST-055,Thames Logistics PLC (CUST-055),UK,Enterprise,A,AM_03
+CUST-035,Nordic Electro AG (CUST-035),Germany,Enterprise,AA,AM_04
+CUST-129,Nippon Systems K.K. (CUST-129),Japan,Mid-Market,A,AM_02
+CUST-121,Lion City Logistics (CUST-121),Singapore,Enterprise,AA,AM_04
+CUST-075,Marina Bay Sourcing (CUST-075),Singapore,Mid-Market,A,AM_03
+CUST-099,Haute Garonne Industries (CUST-099),France,Strategic Account,AAA,AM_02
+CUST-137,Parisienne Logistique (CUST-137),France,Mid-Market,A,AM_03
+CUST-047,Global Commercial Partner (CUST-047),Netherlands,Mid-Market,AAA,AM_02
+CUST-032,Rhine Valley Distribution (CUST-032),Germany,Strategic Account,A,AM_05
+CUST-083,Nippon Systems K.K. (CUST-083),Japan,Mid-Market,AAA,AM_01
+CUST-046,Outback Wholesale Pty (CUST-046),Australia,Strategic Account,AA,AM_04
+CUST-100,Nippon Systems K.K. (CUST-100),Japan,Mid-Market,AAA,AM_02
+CUST-078,Maple Leaf Outfitting (CUST-078),Canada,Enterprise,AAA,AM_04
+CUST-077,Maple Leaf Outfitting (CUST-077),Canada,Enterprise,AAA,AM_02
+CUST-128,Global Commercial Partner (CUST-128),India,Mid-Market,AA,AM_04
+CUST-149,Haute Garonne Industries (CUST-149),France,Strategic Account,AAA,AM_01
+CUST-044,Lion City Logistics (CUST-044),Singapore,Enterprise,AA,AM_03
+CUST-073,Maple Leaf Outfitting (CUST-073),Canada,Enterprise,A,AM_02
+CUST-041,Beacon Logistics Corp (CUST-041),USA,Mid-Market,A,AM_02
+CUST-114,Straits Trading Hub (CUST-114),Singapore,Strategic Account,AAA,AM_05
+CUST-118,Great Northern Freight (CUST-118),Canada,Mid-Market,AA,AM_04
+CUST-122,Outback Wholesale Pty (CUST-122),Australia,Strategic Account,A,AM_03
+CUST-130,Beacon Logistics Corp (CUST-130),USA,Strategic Account,A,AM_02
+CUST-005,Outback Wholesale Pty (CUST-005),Australia,Strategic Account,A,AM_01
+CUST-069,Global Commercial Partner (CUST-069),India,Mid-Market,A,AM_02
+CUST-023,Rhine Valley Distribution (CUST-023),Germany,Mid-Market,A,AM_05
+CUST-118,Nippon Systems K.K. (CUST-118),Japan,Mid-Market,AA,AM_04
+CUST-074,Crown Maritime Stores (CUST-074),UK,Strategic Account,AA,AM_01
+CUST-076,Outback Wholesale Pty (CUST-076),Australia,Strategic Account,AAA,AM_05
+CUST-015,Straits Trading Hub (CUST-015),Singapore,Strategic Account,AAA,AM_03
+CUST-093,Pacific Horizon Ltd (CUST-093),Canada,Strategic Account,AAA,AM_02
+CUST-114,Osaka Global Trading (CUST-114),Japan,Strategic Account,AAA,AM_05
+CUST-105,Nippon Systems K.K. (CUST-105),Japan,Mid-Market,AA,AM_02
+CUST-068,Osaka Global Trading (CUST-068),Japan,Strategic Account,AA,AM_01
+CUST-145,Great Northern Freight (CUST-145),Canada,Mid-Market,A,AM_04
+CUST-014,Osaka Global Trading (CUST-014),Japan,Strategic Account,A,AM_02
+CUST-049,Global Commercial Partner (CUST-049),India,Enterprise,AA,AM_02
+CUST-036,Southern Cross Merchants (CUST-036),Australia,Enterprise,AAA,AM_03
+CUST-124,Maple Leaf Outfitting (CUST-124),Canada,Enterprise,AA,AM_01
+CUST-048,Global Commercial Partner (CUST-048),Netherlands,Strategic Account,AA,AM_02
+CUST-050,Nippon Systems K.K. (CUST-050),Japan,Mid-Market,AAA,AM_03
+CUST-080,Outback Wholesale Pty (CUST-080),Australia,Strategic Account,A,AM_05
+CUST-027,Crown Maritime Stores (CUST-027),UK,Enterprise,AA,AM_05
+CUST-104,Sydney Supply Hub (CUST-104),Australia,Mid-Market,AA,AM_04
+CUST-084,Albion Commerce Ltd (CUST-084),UK,Strategic Account,AAA,AM_03
+CUST-126,Global Commercial Partner (CUST-126),India,Strategic Account,AA,AM_03
+CUST-150,Empire Wholesale Group (CUST-150),USA,Strategic Account,AA,AM_05
+CUST-024,Lion City Logistics (CUST-024),Singapore,Enterprise,AAA,AM_03
+CUST-103,Nippon Systems K.K. (CUST-103),Japan,Mid-Market,AAA,AM_03
+CUST-066,Lion City Logistics (CUST-066),Singapore,Enterprise,A,AM_04
+CUST-035,Delta Global Tech (CUST-035),USA,Enterprise,AA,AM_04
+CUST-024,Maple Leaf Outfitting (CUST-024),Canada,Enterprise,AAA,AM_03
+CUST-081,Global Commercial Partner (CUST-081),Netherlands,Strategic Account,A,AM_01
+CUST-062,Osaka Global Trading (CUST-062),Japan,Strategic Account,A,AM_02
+CUST-082,Pacific Horizon Ltd (CUST-082),Canada,Strategic Account,A,AM_02
+CUST-022,Pacific Horizon Ltd (CUST-022),Canada,Strategic Account,A,AM_05
+CUST-067,Thames Logistics PLC (CUST-067),UK,Enterprise,A,AM_02
+CUST-127,Pacific Horizon Ltd (CUST-127),Canada,Strategic Account,AAA,AM_01
+CUST-012,Albion Commerce Ltd (CUST-012),UK,Enterprise,AAA,AM_04
+CUST-039,Global Commercial Partner (CUST-039),India,Strategic Account,AA,AM_03
+CUST-125,Sydney Supply Hub (CUST-125),Australia,Mid-Market,AAA,AM_04
+CUST-135,Lion City Logistics (CUST-135),Singapore,Enterprise,A,AM_05
+CUST-073,Global Commercial Partner (CUST-073),Netherlands,Enterprise,A,AM_02
+CUST-073,Thames Logistics PLC (CUST-073),UK,Enterprise,A,AM_02
+CUST-048,Pacific Horizon Ltd (CUST-048),Canada,Strategic Account,AA,AM_02
+CUST-039,Crown Maritime Stores (CUST-039),UK,Strategic Account,AA,AM_03
+CUST-122,Pacific Horizon Ltd (CUST-122),Canada,Strategic Account,A,AM_03
+CUST-142,Kanto Components Co (CUST-142),Japan,Enterprise,A,AM_02
+CUST-120,Crown Maritime Stores (CUST-120),UK,Mid-Market,AA,AM_03
+CUST-031,Global Commercial Partner (CUST-031),India,Mid-Market,A,AM_04
+CUST-027,Global Commercial Partner (CUST-027),India,Enterprise,AA,AM_05
+CUST-113,Great Northern Freight (CUST-113),Canada,Mid-Market,A,AM_02
+CUST-039,Straits Trading Hub (CUST-039),Singapore,Strategic Account,AA,AM_03
+CUST-053,Global Commercial Partner (CUST-053),India,Strategic Account,AA,AM_01
+CUST-131,Global Commercial Partner (CUST-131),India,Mid-Market,A,AM_05
+CUST-096,Nippon Systems K.K. (CUST-096),Japan,Mid-Market,AA,AM_03
+CUST-064,Stuttgart Fabrik UG (CUST-064),Germany,Strategic Account,A,AM_03
+CUST-136,Bavaria Precision GmbH (CUST-136),Germany,Strategic Account,AAA,AM_03
+CUST-147,Kanto Components Co (CUST-147),Japan,Enterprise,AAA,AM_04
+CUST-139,Marina Bay Sourcing (CUST-139),Singapore,Mid-Market,AAA,AM_01
+CUST-114,Bavaria Precision GmbH (CUST-114),Germany,Strategic Account,AAA,AM_05
+CUST-047,Nippon Systems K.K. (CUST-047),Japan,Mid-Market,AAA,AM_02
+CUST-062,Straits Trading Hub (CUST-062),Singapore,Strategic Account,A,AM_02
+CUST-075,Vanguard Electronics (CUST-075),UK,Mid-Market,A,AM_03
+CUST-032,Thames Logistics PLC (CUST-032),UK,Strategic Account,A,AM_05
+CUST-005,Thames Logistics PLC (CUST-005),UK,Strategic Account,A,AM_01
+CUST-032,Global Commercial Partner (CUST-032),Netherlands,Strategic Account,A,AM_05
+CUST-072,Global Commercial Partner (CUST-072),Netherlands,Mid-Market,A,AM_04
+CUST-127,Albion Commerce Ltd (CUST-127),UK,Strategic Account,AAA,AM_01
+CUST-006,Global Commercial Partner (CUST-006),India,Strategic Account,A,AM_02
+CUST-058,Empire Wholesale Group (CUST-058),USA,Mid-Market,A,AM_05
+CUST-061,Bavaria Precision GmbH (CUST-061),Germany,Mid-Market,AAA,AM_02
+CUST-015,Global Commercial Partner (CUST-015),India,Strategic Account,AAA,AM_03
+CUST-007,Outback Wholesale Pty (CUST-007),Australia,Strategic Account,A,AM_03
+CUST-114,Albion Commerce Ltd (CUST-114),UK,Strategic Account,AAA,AM_05
+CUST-003,Global Commercial Partner (CUST-003),India,Mid-Market,AAA,AM_02
+CUST-055,Lumière Distribution SA (CUST-055),France,Enterprise,A,AM_03
+CUST-110,Haute Garonne Industries (CUST-110),France,Strategic Account,A,AM_04
+CUST-021,Outback Wholesale Pty (CUST-021),Australia,Strategic Account,AAA,AM_04
+CUST-127,Outback Wholesale Pty (CUST-127),Australia,Strategic Account,AAA,AM_01
+CUST-141,Rhine Valley Distribution (CUST-141),Germany,Enterprise,A,AM_05
+CUST-098,Empire Wholesale Group (CUST-098),USA,Strategic Account,AAA,AM_05
+CUST-051,Global Commercial Partner (CUST-051),Netherlands,Mid-Market,A,AM_01
+CUST-104,Marina Bay Sourcing (CUST-104),Singapore,Mid-Market,AA,AM_04
+CUST-107,Parisienne Logistique (CUST-107),France,Mid-Market,AA,AM_02
+CUST-006,Straits Trading Hub (CUST-006),Singapore,Strategic Account,A,AM_02
+CUST-049,Southern Cross Merchants (CUST-049),Australia,Enterprise,AA,AM_02
+CUST-135,Stuttgart Fabrik UG (CUST-135),Germany,Enterprise,A,AM_05
+CUST-053,Osaka Global Trading (CUST-053),Japan,Strategic Account,AA,AM_01
+CUST-064,Global Commercial Partner (CUST-064),India,Strategic Account,A,AM_03
+CUST-045,Pacific Horizon Ltd (CUST-045),Canada,Strategic Account,A,AM_04
+CUST-138,Nippon Systems K.K. (CUST-138),Japan,Mid-Market,AA,AM_04
+CUST-043,Osaka Global Trading (CUST-043),Japan,Strategic Account,A,AM_02
+CUST-119,Southern Cross Merchants (CUST-119),Australia,Enterprise,A,AM_01
+CUST-043,Thames Logistics PLC (CUST-043),UK,Strategic Account,A,AM_02
+CUST-084,Pacific Horizon Ltd (CUST-084),Canada,Strategic Account,AAA,AM_03
+CUST-053,Apex Industrial Supply (CUST-053),USA,Strategic Account,AA,AM_01
+CUST-085,Global Commercial Partner (CUST-085),Netherlands,Mid-Market,A,AM_03
+CUST-024,Albion Commerce Ltd (CUST-024),UK,Enterprise,AAA,AM_03
+CUST-138,Crown Maritime Stores (CUST-138),UK,Mid-Market,AA,AM_04
+CUST-066,Global Commercial Partner (CUST-066),Netherlands,Enterprise,A,AM_04
+CUST-021,Global Commercial Partner (CUST-021),India,Strategic Account,AAA,AM_04
+CUST-054,Pacific Horizon Ltd (CUST-054),Canada,Strategic Account,A,AM_04
+CUST-029,Sydney Supply Hub (CUST-029),Australia,Mid-Market,AAA,AM_01
+CUST-088,Beacon Logistics Corp (CUST-088),USA,Enterprise,A,AM_02
+CUST-069,Sydney Supply Hub (CUST-069),Australia,Mid-Market,A,AM_02
+CUST-103,Albion Commerce Ltd (CUST-103),UK,Mid-Market,AAA,AM_03
+CUST-093,Beacon Logistics Corp (CUST-093),USA,Strategic Account,AAA,AM_02
+CUST-076,Straits Trading Hub (CUST-076),Singapore,Strategic Account,AAA,AM_05
+CUST-139,Parisienne Logistique (CUST-139),France,Mid-Market,AAA,AM_01
+CUST-137,Sydney Supply Hub (CUST-137),Australia,Mid-Market,A,AM_03
+CUST-049,Nordic Electro AG (CUST-049),Germany,Enterprise,AA,AM_02
+CUST-057,Stuttgart Fabrik UG (CUST-057),Germany,Strategic Account,A,AM_02
+CUST-080,Global Commercial Partner (CUST-080),India,Strategic Account,A,AM_05
+CUST-014,Vanguard Electronics (CUST-014),UK,Strategic Account,A,AM_02
+CUST-101,Bavaria Precision GmbH (CUST-101),Germany,Strategic Account,AAA,AM_01
+CUST-104,Parisienne Logistique (CUST-104),France,Mid-Market,AA,AM_04
+CUST-114,Global Commercial Partner (CUST-114),Netherlands,Strategic Account,AAA,AM_05
+CUST-017,Global Commercial Partner (CUST-017),India,Mid-Market,A,AM_05
+CUST-047,Beacon Logistics Corp (CUST-047),USA,Mid-Market,AAA,AM_02
+CUST-140,Crown Maritime Stores (CUST-140),UK,Enterprise,AA,AM_04
+CUST-109,Bavaria Precision GmbH (CUST-109),Germany,Enterprise,AAA,AM_02
+CUST-050,Global Commercial Partner (CUST-050),Netherlands,Mid-Market,AAA,AM_03
+CUST-023,Global Commercial Partner (CUST-023),Netherlands,Mid-Market,A,AM_05
+CUST-047,Sydney Supply Hub (CUST-047),Australia,Mid-Market,AAA,AM_02
+CUST-021,Bavaria Precision GmbH (CUST-021),Germany,Strategic Account,AAA,AM_04
+CUST-132,Global Commercial Partner (CUST-132),India,Strategic Account,A,AM_03
+CUST-124,Kanto Components Co (CUST-124),Japan,Enterprise,AA,AM_01
+CUST-002,Marina Bay Sourcing (CUST-002),Singapore,Mid-Market,A,AM_01
+CUST-075,Nippon Systems K.K. (CUST-075),Japan,Mid-Market,A,AM_03
+CUST-135,Kanto Components Co (CUST-135),Japan,Enterprise,A,AM_05
+CUST-013,Vanguard Electronics (CUST-013),UK,Enterprise,A,AM_04
+CUST-034,Global Commercial Partner (CUST-034),Netherlands,Enterprise,AA,AM_02
+CUST-049,Lumière Distribution SA (CUST-049),France,Enterprise,AA,AM_02
+CUST-094,Sydney Supply Hub (CUST-094),Australia,Mid-Market,A,AM_03
+CUST-127,Global Commercial Partner (CUST-127),India,Strategic Account,AAA,AM_01
+CUST-064,Haute Garonne Industries (CUST-064),France,Strategic Account,A,AM_03
+CUST-072,Thames Logistics PLC (CUST-072),UK,Mid-Market,A,AM_04
+CUST-060,Pacific Horizon Ltd (CUST-060),Canada,Strategic Account,A,AM_03
+CUST-037,Lion City Logistics (CUST-037),Singapore,Enterprise,A,AM_03
+CUST-074,Haute Garonne Industries (CUST-074),France,Strategic Account,AA,AM_01
+CUST-038,Global Commercial Partner (CUST-038),Netherlands,Strategic Account,A,AM_04
+CUST-149,Pacific Horizon Ltd (CUST-149),Canada,Strategic Account,AAA,AM_01
+CUST-028,Straits Trading Hub (CUST-028),Singapore,Strategic Account,AA,AM_02
+CUST-136,Osaka Global Trading (CUST-136),Japan,Strategic Account,AAA,AM_03
+CUST-067,Lion City Logistics (CUST-067),Singapore,Enterprise,A,AM_02
+CUST-123,Global Commercial Partner (CUST-123),Netherlands,Mid-Market,A,AM_04
+CUST-081,Rhine Valley Distribution (CUST-081),Germany,Strategic Account,A,AM_01
+CUST-039,Crestview Retailers (CUST-039),USA,Strategic Account,AA,AM_03
+CUST-148,Global Commercial Partner (CUST-148),Netherlands,Enterprise,AAA,AM_04
+CUST-105,Marina Bay Sourcing (CUST-105),Singapore,Mid-Market,AA,AM_02
+CUST-144,Delta Global Tech (CUST-144),USA,Mid-Market,AA,AM_04
+CUST-022,Thames Logistics PLC (CUST-022),UK,Strategic Account,A,AM_05
+CUST-082,Straits Trading Hub (CUST-082),Singapore,Strategic Account,A,AM_02
+CUST-021,Osaka Global Trading (CUST-021),Japan,Strategic Account,AAA,AM_04
+CUST-090,Great Northern Freight (CUST-090),Canada,Mid-Market,AA,AM_04
+CUST-082,Beacon Logistics Corp (CUST-082),USA,Strategic Account,A,AM_02
+CUST-049,Maple Leaf Outfitting (CUST-049),Canada,Enterprise,AA,AM_02
+CUST-106,Pacific Horizon Ltd (CUST-106),Canada,Strategic Account,AA,AM_02
+CUST-112,Nippon Systems K.K. (CUST-112),Japan,Mid-Market,AAA,AM_05
+CUST-108,Lumière Distribution SA (CUST-108),France,Enterprise,A,AM_01
+CUST-147,Maple Leaf Outfitting (CUST-147),Canada,Enterprise,AAA,AM_04
+CUST-112,Parisienne Logistique (CUST-112),France,Mid-Market,AAA,AM_05
+CUST-040,Crestview Retailers (CUST-040),USA,Enterprise,A,AM_03
+CUST-097,Osaka Global Trading (CUST-097),Japan,Strategic Account,A,AM_02
+CUST-089,Southern Cross Merchants (CUST-089),Australia,Enterprise,A,AM_05
+CUST-045,Haute Garonne Industries (CUST-045),France,Strategic Account,A,AM_04
+CUST-146,Global Commercial Partner (CUST-146),Netherlands,Strategic Account,A,AM_03
+CUST-082,Global Commercial Partner (CUST-082),Netherlands,Strategic Account,A,AM_02
+CUST-013,Maple Leaf Outfitting (CUST-013),Canada,Enterprise,A,AM_04
+CUST-031,Vanguard Electronics (CUST-031),UK,Mid-Market,A,AM_04
+CUST-136,Global Commercial Partner (CUST-136),India,Strategic Account,AAA,AM_03
+CUST-072,Great Northern Freight (CUST-072),Canada,Mid-Market,A,AM_04
+CUST-022,Global Commercial Partner (CUST-022),Netherlands,Strategic Account,A,AM_05
+CUST-018,Vanguard Electronics (CUST-018),UK,Enterprise,A,AM_04
+CUST-037,Global Commercial Partner (CUST-037),Netherlands,Enterprise,A,AM_03
+CUST-068,Global Commercial Partner (CUST-068),Netherlands,Strategic Account,AA,AM_01
+CUST-003,Sydney Supply Hub (CUST-003),Australia,Mid-Market,AAA,AM_02
+CUST-079,Crestview Retailers (CUST-079),USA,Enterprise,A,AM_03
+CUST-111,Marina Bay Sourcing (CUST-111),Singapore,Mid-Market,A,AM_03
+CUST-132,Global Commercial Partner (CUST-132),Netherlands,Strategic Account,A,AM_03
+CUST-124,Global Commercial Partner (CUST-124),Netherlands,Enterprise,AA,AM_01
+CUST-078,Delta Global Tech (CUST-078),USA,Enterprise,AAA,AM_04
+CUST-135,Maple Leaf Outfitting (CUST-135),Canada,Enterprise,A,AM_05
+CUST-047,Marina Bay Sourcing (CUST-047),Singapore,Mid-Market,AAA,AM_02
+CUST-128,Sydney Supply Hub (CUST-128),Australia,Mid-Market,AA,AM_04
+CUST-019,Southern Cross Merchants (CUST-019),Australia,Enterprise,AA,AM_03
+CUST-112,Global Commercial Partner (CUST-112),India,Mid-Market,AAA,AM_05
+CUST-129,Global Commercial Partner (CUST-129),Netherlands,Mid-Market,A,AM_02
+CUST-150,Outback Wholesale Pty (CUST-150),Australia,Strategic Account,AA,AM_05
+CUST-019,Lion City Logistics (CUST-019),Singapore,Enterprise,AA,AM_03
+CUST-033,Great Northern Freight (CUST-033),Canada,Mid-Market,A,AM_02
+CUST-020,Nippon Systems K.K. (CUST-020),Japan,Mid-Market,A,AM_05
+CUST-015,Bavaria Precision GmbH (CUST-015),Germany,Strategic Account,AAA,AM_03
+CUST-072,Nippon Systems K.K. (CUST-072),Japan,Mid-Market,A,AM_04
+CUST-119,Apex Industrial Supply (CUST-119),USA,Enterprise,A,AM_01
+CUST-067,Kanto Components Co (CUST-067),Japan,Enterprise,A,AM_02
+CUST-110,Osaka Global Trading (CUST-110),Japan,Strategic Account,A,AM_04
+CUST-131,Marina Bay Sourcing (CUST-131),Singapore,Mid-Market,A,AM_05
+CUST-004,Thames Logistics PLC (CUST-004),UK,Enterprise,A,AM_03
+CUST-091,Albion Commerce Ltd (CUST-091),UK,Enterprise,AAA,AM_03
+CUST-116,Great Northern Freight (CUST-116),Canada,Mid-Market,A,AM_05
+CUST-127,Global Commercial Partner (CUST-127),Netherlands,Strategic Account,AAA,AM_01
+CUST-072,Marina Bay Sourcing (CUST-072),Singapore,Mid-Market,A,AM_04
+CUST-117,Nippon Systems K.K. (CUST-117),Japan,Mid-Market,AAA,AM_05
+CUST-003,Parisienne Logistique (CUST-003),France,Mid-Market,AAA,AM_02
+CUST-055,Crestview Retailers (CUST-055),USA,Enterprise,A,AM_03
+CUST-144,Global Commercial Partner (CUST-144),Netherlands,Mid-Market,AA,AM_04
+CUST-093,Global Commercial Partner (CUST-093),India,Strategic Account,AAA,AM_02
+CUST-041,Nippon Systems K.K. (CUST-041),Japan,Mid-Market,A,AM_02
+CUST-039,Nordic Electro AG (CUST-039),Germany,Strategic Account,AA,AM_03
+CUST-057,Pacific Horizon Ltd (CUST-057),Canada,Strategic Account,A,AM_02
+CUST-123,Marina Bay Sourcing (CUST-123),Singapore,Mid-Market,A,AM_04
+CUST-146,Haute Garonne Industries (CUST-146),France,Strategic Account,A,AM_03
+CUST-081,Haute Garonne Industries (CUST-081),France,Strategic Account,A,AM_01
+CUST-030,Empire Wholesale Group (CUST-030),USA,Mid-Market,AAA,AM_05
+CUST-096,Marina Bay Sourcing (CUST-096),Singapore,Mid-Market,AA,AM_03
+CUST-107,Crown Maritime Stores (CUST-107),UK,Mid-Market,AA,AM_02
+CUST-046,Delta Global Tech (CUST-046),USA,Strategic Account,AA,AM_04
+CUST-065,Kanto Components Co (CUST-065),Japan,Enterprise,A,AM_03
+CUST-046,Crown Maritime Stores (CUST-046),UK,Strategic Account,AA,AM_04
+CUST-051,Global Commercial Partner (CUST-051),India,Mid-Market,A,AM_01
+CUST-006,Thames Logistics PLC (CUST-006),UK,Strategic Account,A,AM_02
+CUST-081,Pacific Horizon Ltd (CUST-081),Canada,Strategic Account,A,AM_01
+CUST-108,Southern Cross Merchants (CUST-108),Australia,Enterprise,A,AM_01
+CUST-122,Haute Garonne Industries (CUST-122),France,Strategic Account,A,AM_03
+CUST-008,Thames Logistics PLC (CUST-008),UK,Enterprise,A,AM_04
+CUST-102,Thames Logistics PLC (CUST-102),UK,Strategic Account,A,AM_02
+CUST-041,Global Commercial Partner (CUST-041),Netherlands,Mid-Market,A,AM_02
+CUST-109,Lion City Logistics (CUST-109),Singapore,Enterprise,AAA,AM_02
+CUST-059,Thames Logistics PLC (CUST-059),UK,Strategic Account,A,AM_04
+CUST-021,Albion Commerce Ltd (CUST-021),UK,Strategic Account,AAA,AM_04
+CUST-095,Kanto Components Co (CUST-095),Japan,Enterprise,A,AM_03
+CUST-022,Global Commercial Partner (CUST-022),India,Strategic Account,A,AM_05
+CUST-021,Global Commercial Partner (CUST-021),Netherlands,Strategic Account,AAA,AM_04
+CUST-118,Marina Bay Sourcing (CUST-118),Singapore,Mid-Market,AA,AM_04
+CUST-044,Maple Leaf Outfitting (CUST-044),Canada,Enterprise,AA,AM_03
+CUST-095,Lumière Distribution SA (CUST-095),France,Enterprise,A,AM_03
+CUST-029,Marina Bay Sourcing (CUST-029),Singapore,Mid-Market,AAA,AM_01
+CUST-137,Crestview Retailers (CUST-137),USA,Mid-Market,A,AM_03
+CUST-149,Bavaria Precision GmbH (CUST-149),Germany,Strategic Account,AAA,AM_01
+CUST-088,Kanto Components Co (CUST-088),Japan,Enterprise,A,AM_02
+CUST-041,Marina Bay Sourcing (CUST-041),Singapore,Mid-Market,A,AM_02
+CUST-017,Global Commercial Partner (CUST-017),Netherlands,Mid-Market,A,AM_05
+CUST-009,Great Northern Freight (CUST-009),Canada,Mid-Market,A,AM_04
+CUST-047,Parisienne Logistique (CUST-047),France,Mid-Market,AAA,AM_02
+CUST-138,Delta Global Tech (CUST-138),USA,Mid-Market,AA,AM_04
+CUST-114,Haute Garonne Industries (CUST-114),France,Strategic Account,AAA,AM_05
+CUST-028,Haute Garonne Industries (CUST-028),France,Strategic Account,AA,AM_02
+CUST-007,Global Commercial Partner (CUST-007),Netherlands,Strategic Account,A,AM_03
+CUST-125,Parisienne Logistique (CUST-125),France,Mid-Market,AAA,AM_04
+CUST-077,Lion City Logistics (CUST-077),Singapore,Enterprise,AAA,AM_02
+CUST-020,Marina Bay Sourcing (CUST-020),Singapore,Mid-Market,A,AM_05
+CUST-116,Thames Logistics PLC (CUST-116),UK,Mid-Market,A,AM_05
+CUST-005,Apex Industrial Supply (CUST-005),USA,Strategic Account,A,AM_01
+CUST-137,Marina Bay Sourcing (CUST-137),Singapore,Mid-Market,A,AM_03
+CUST-113,Stuttgart Fabrik UG (CUST-113),Germany,Mid-Market,A,AM_02
+CUST-103,Bavaria Precision GmbH (CUST-103),Germany,Mid-Market,AAA,AM_03
+CUST-083,Apex Industrial Supply (CUST-083),USA,Mid-Market,AAA,AM_01
+CUST-008,Delta Global Tech (CUST-008),USA,Enterprise,A,AM_04
+CUST-134,Global Commercial Partner (CUST-134),India,Strategic Account,AA,AM_01
+CUST-072,Global Commercial Partner (CUST-072),India,Mid-Market,A,AM_04
+CUST-025,Parisienne Logistique (CUST-025),France,Mid-Market,AA,AM_02
+CUST-037,Kanto Components Co (CUST-037),Japan,Enterprise,A,AM_03
+CUST-065,Global Commercial Partner (CUST-065),Netherlands,Enterprise,A,AM_03
+CUST-113,Sydney Supply Hub (CUST-113),Australia,Mid-Market,A,AM_02
+CUST-089,Global Commercial Partner (CUST-089),Netherlands,Enterprise,A,AM_05
+CUST-086,Global Commercial Partner (CUST-086),Netherlands,Mid-Market,A,AM_05
+CUST-041,Vanguard Electronics (CUST-041),UK,Mid-Market,A,AM_02
+CUST-088,Global Commercial Partner (CUST-088),India,Enterprise,A,AM_02
+CUST-094,Nippon Systems K.K. (CUST-094),Japan,Mid-Market,A,AM_03
+CUST-122,Global Commercial Partner (CUST-122),India,Strategic Account,A,AM_03
+CUST-017,Thames Logistics PLC (CUST-017),UK,Mid-Market,A,AM_05
+CUST-031,Stuttgart Fabrik UG (CUST-031),Germany,Mid-Market,A,AM_04
+CUST-048,Osaka Global Trading (CUST-048),Japan,Strategic Account,AA,AM_02
+CUST-002,Global Commercial Partner (CUST-002),Netherlands,Mid-Market,A,AM_01
+CUST-026,Global Commercial Partner (CUST-026),India,Mid-Market,AAA,AM_02
+CUST-030,Nippon Systems K.K. (CUST-030),Japan,Mid-Market,AAA,AM_05
+CUST-080,Haute Garonne Industries (CUST-080),France,Strategic Account,A,AM_05
+CUST-074,Osaka Global Trading (CUST-074),Japan,Strategic Account,AA,AM_01
+CUST-100,Albion Commerce Ltd (CUST-100),UK,Mid-Market,AAA,AM_02
+CUST-018,Lumière Distribution SA (CUST-018),France,Enterprise,A,AM_04
+CUST-118,Sydney Supply Hub (CUST-118),Australia,Mid-Market,AA,AM_04
+CUST-034,Southern Cross Merchants (CUST-034),Australia,Enterprise,AA,AM_02
+CUST-039,Haute Garonne Industries (CUST-039),France,Strategic Account,AA,AM_03
+CUST-105,Crown Maritime Stores (CUST-105),UK,Mid-Market,AA,AM_02
+CUST-093,Outback Wholesale Pty (CUST-093),Australia,Strategic Account,AAA,AM_02
+CUST-147,Delta Global Tech (CUST-147),USA,Enterprise,AAA,AM_04
+CUST-067,Global Commercial Partner (CUST-067),India,Enterprise,A,AM_02
+CUST-024,Crestview Retailers (CUST-024),USA,Enterprise,AAA,AM_03
+CUST-016,Southern Cross Merchants (CUST-016),Australia,Enterprise,AA,AM_03
+CUST-082,Outback Wholesale Pty (CUST-082),Australia,Strategic Account,A,AM_02
+CUST-004,Maple Leaf Outfitting (CUST-004),Canada,Enterprise,A,AM_03
+CUST-122,Rhine Valley Distribution (CUST-122),Germany,Strategic Account,A,AM_03
+CUST-033,Global Commercial Partner (CUST-033),Netherlands,Mid-Market,A,AM_02
+CUST-144,Crown Maritime Stores (CUST-144),UK,Mid-Market,AA,AM_04
+CUST-073,Lumière Distribution SA (CUST-073),France,Enterprise,A,AM_02
+CUST-142,Southern Cross Merchants (CUST-142),Australia,Enterprise,A,AM_02
+CUST-140,Delta Global Tech (CUST-140),USA,Enterprise,AA,AM_04
+CUST-011,Lumière Distribution SA (CUST-011),France,Enterprise,AAA,AM_02
+CUST-010,Parisienne Logistique (CUST-010),France,Mid-Market,AAA,AM_05
+CUST-096,Global Commercial Partner (CUST-096),India,Mid-Market,AA,AM_03
+CUST-048,Nordic Electro AG (CUST-048),Germany,Strategic Account,AA,AM_02
+CUST-056,Global Commercial Partner (CUST-056),India,Strategic Account,A,AM_04
+CUST-107,Beacon Logistics Corp (CUST-107),USA,Mid-Market,AA,AM_02
+CUST-004,Rhine Valley Distribution (CUST-004),Germany,Enterprise,A,AM_03
+CUST-128,Great Northern Freight (CUST-128),Canada,Mid-Market,AA,AM_04
+CUST-139,Great Northern Freight (CUST-139),Canada,Mid-Market,AAA,AM_01
+CUST-049,Beacon Logistics Corp (CUST-049),USA,Enterprise,AA,AM_02
+CUST-019,Nordic Electro AG (CUST-019),Germany,Enterprise,AA,AM_03
+CUST-011,Southern Cross Merchants (CUST-011),Australia,Enterprise,AAA,AM_02
+CUST-071,Marina Bay Sourcing (CUST-071),Singapore,Mid-Market,AAA,AM_05
+CUST-124,Southern Cross Merchants (CUST-124),Australia,Enterprise,AA,AM_01
+CUST-140,Global Commercial Partner (CUST-140),Netherlands,Enterprise,AA,AM_04
+CUST-131,Sydney Supply Hub (CUST-131),Australia,Mid-Market,A,AM_05
+CUST-132,Haute Garonne Industries (CUST-132),France,Strategic Account,A,AM_03
+CUST-101,Outback Wholesale Pty (CUST-101),Australia,Strategic Account,AAA,AM_01
+CUST-147,Lion City Logistics (CUST-147),Singapore,Enterprise,AAA,AM_04
+CUST-006,Outback Wholesale Pty (CUST-006),Australia,Strategic Account,A,AM_02
+CUST-013,Lumière Distribution SA (CUST-013),France,Enterprise,A,AM_04
+CUST-101,Albion Commerce Ltd (CUST-101),UK,Strategic Account,AAA,AM_01
+CUST-112,Albion Commerce Ltd (CUST-112),UK,Mid-Market,AAA,AM_05
+CUST-119,Vanguard Electronics (CUST-119),UK,Enterprise,A,AM_01
+CUST-123,Delta Global Tech (CUST-123),USA,Mid-Market,A,AM_04
+CUST-141,Lion City Logistics (CUST-141),Singapore,Enterprise,A,AM_05
+CUST-011,Beacon Logistics Corp (CUST-011),USA,Enterprise,AAA,AM_02
+CUST-124,Nordic Electro AG (CUST-124),Germany,Enterprise,AA,AM_01
+CUST-141,Global Commercial Partner (CUST-141),Netherlands,Enterprise,A,AM_05
+CUST-084,Straits Trading Hub (CUST-084),Singapore,Strategic Account,AAA,AM_03
+CUST-092,Lion City Logistics (CUST-092),Singapore,Enterprise,A,AM_01
+CUST-087,Thames Logistics PLC (CUST-087),UK,Strategic Account,A,AM_04
+CUST-016,Lion City Logistics (CUST-016),Singapore,Enterprise,AA,AM_03
+CUST-122,Crestview Retailers (CUST-122),USA,Strategic Account,A,AM_03
+CUST-051,Great Northern Freight (CUST-051),Canada,Mid-Market,A,AM_01
+CUST-119,Lion City Logistics (CUST-119),Singapore,Enterprise,A,AM_01
+CUST-102,Beacon Logistics Corp (CUST-102),USA,Strategic Account,A,AM_02
+CUST-137,Global Commercial Partner (CUST-137),India,Mid-Market,A,AM_03
+CUST-034,Kanto Components Co (CUST-034),Japan,Enterprise,AA,AM_02
+CUST-032,Empire Wholesale Group (CUST-032),USA,Strategic Account,A,AM_05
+CUST-077,Albion Commerce Ltd (CUST-077),UK,Enterprise,AAA,AM_02
+CUST-033,Thames Logistics PLC (CUST-033),UK,Mid-Market,A,AM_02
+CUST-100,Parisienne Logistique (CUST-100),France,Mid-Market,AAA,AM_02
+CUST-071,Great Northern Freight (CUST-071),Canada,Mid-Market,AAA,AM_05
+CUST-046,Pacific Horizon Ltd (CUST-046),Canada,Strategic Account,AA,AM_04
+CUST-125,Great Northern Freight (CUST-125),Canada,Mid-Market,AAA,AM_04
+CUST-079,Maple Leaf Outfitting (CUST-079),Canada,Enterprise,A,AM_03
+CUST-062,Global Commercial Partner (CUST-062),India,Strategic Account,A,AM_02
+CUST-141,Southern Cross Merchants (CUST-141),Australia,Enterprise,A,AM_05
+CUST-088,Lumière Distribution SA (CUST-088),France,Enterprise,A,AM_02
+CUST-106,Global Commercial Partner (CUST-106),Netherlands,Strategic Account,AA,AM_02
+CUST-050,Albion Commerce Ltd (CUST-050),UK,Mid-Market,AAA,AM_03
+CUST-040,Stuttgart Fabrik UG (CUST-040),Germany,Enterprise,A,AM_03
+CUST-123,Great Northern Freight (CUST-123),Canada,Mid-Market,A,AM_04
+CUST-023,Global Commercial Partner (CUST-023),India,Mid-Market,A,AM_05
+CUST-091,Global Commercial Partner (CUST-091),Netherlands,Enterprise,AAA,AM_03
+CUST-074,Global Commercial Partner (CUST-074),India,Strategic Account,AA,AM_01
+CUST-039,Pacific Horizon Ltd (CUST-039),Canada,Strategic Account,AA,AM_03
+CUST-063,Vanguard Electronics (CUST-063),UK,Mid-Market,A,AM_02
+CUST-136,Pacific Horizon Ltd (CUST-136),Canada,Strategic Account,AAA,AM_03
+CUST-132,Straits Trading Hub (CUST-132),Singapore,Strategic Account,A,AM_03
+CUST-016,Global Commercial Partner (CUST-016),Netherlands,Enterprise,AA,AM_03
+CUST-024,Bavaria Precision GmbH (CUST-024),Germany,Enterprise,AAA,AM_03
+CUST-020,Stuttgart Fabrik UG (CUST-020),Germany,Mid-Market,A,AM_05
+CUST-028,Global Commercial Partner (CUST-028),Netherlands,Strategic Account,AA,AM_02
+CUST-001,Straits Trading Hub (CUST-001),Singapore,Strategic Account,A,AM_01
+CUST-066,Delta Global Tech (CUST-066),USA,Enterprise,A,AM_04
+CUST-012,Global Commercial Partner (CUST-012),India,Enterprise,AAA,AM_04
+CUST-109,Global Commercial Partner (CUST-109),India,Enterprise,AAA,AM_02
+CUST-061,Sydney Supply Hub (CUST-061),Australia,Mid-Market,AAA,AM_02
+CUST-130,Global Commercial Partner (CUST-130),Netherlands,Strategic Account,A,AM_02
+CUST-134,Crown Maritime Stores (CUST-134),UK,Strategic Account,AA,AM_01
+CUST-038,Pacific Horizon Ltd (CUST-038),Canada,Strategic Account,A,AM_04
+CUST-147,Global Commercial Partner (CUST-147),Netherlands,Enterprise,AAA,AM_04
+CUST-017,Great Northern Freight (CUST-017),Canada,Mid-Market,A,AM_05
+CUST-036,Global Commercial Partner (CUST-036),Netherlands,Enterprise,AAA,AM_03
+CUST-117,Parisienne Logistique (CUST-117),France,Mid-Market,AAA,AM_05
+CUST-068,Straits Trading Hub (CUST-068),Singapore,Strategic Account,AA,AM_01
+CUST-065,Stuttgart Fabrik UG (CUST-065),Germany,Enterprise,A,AM_03
+CUST-030,Global Commercial Partner (CUST-030),India,Mid-Market,AAA,AM_05
+CUST-016,Maple Leaf Outfitting (CUST-016),Canada,Enterprise,AA,AM_03
+CUST-090,Global Commercial Partner (CUST-090),Netherlands,Mid-Market,AA,AM_04
+CUST-010,Sydney Supply Hub (CUST-010),Australia,Mid-Market,AAA,AM_05
+CUST-082,Global Commercial Partner (CUST-082),India,Strategic Account,A,AM_02
+CUST-076,Albion Commerce Ltd (CUST-076),UK,Strategic Account,AAA,AM_05
+CUST-095,Stuttgart Fabrik UG (CUST-095),Germany,Enterprise,A,AM_03
+CUST-083,Sydney Supply Hub (CUST-083),Australia,Mid-Market,AAA,AM_01
+CUST-094,Marina Bay Sourcing (CUST-094),Singapore,Mid-Market,A,AM_03
+CUST-010,Global Commercial Partner (CUST-010),Netherlands,Mid-Market,AAA,AM_05
+CUST-084,Global Commercial Partner (CUST-084),Netherlands,Strategic Account,AAA,AM_03
+CUST-068,Outback Wholesale Pty (CUST-068),Australia,Strategic Account,AA,AM_01
+CUST-150,Crown Maritime Stores (CUST-150),UK,Strategic Account,AA,AM_05
+CUST-083,Bavaria Precision GmbH (CUST-083),Germany,Mid-Market,AAA,AM_01
+CUST-051,Sydney Supply Hub (CUST-051),Australia,Mid-Market,A,AM_01
+CUST-030,Albion Commerce Ltd (CUST-030),UK,Mid-Market,AAA,AM_05
+CUST-111,Great Northern Freight (CUST-111),Canada,Mid-Market,A,AM_03
+CUST-001,Haute Garonne Industries (CUST-001),France,Strategic Account,A,AM_01
+CUST-016,Nordic Electro AG (CUST-016),Germany,Enterprise,AA,AM_03
+CUST-109,Albion Commerce Ltd (CUST-109),UK,Enterprise,AAA,AM_02
+CUST-052,Straits Trading Hub (CUST-052),Singapore,Strategic Account,AA,AM_05
+CUST-015,Osaka Global Trading (CUST-015),Japan,Strategic Account,AAA,AM_03
+CUST-011,Kanto Components Co (CUST-011),Japan,Enterprise,AAA,AM_02
+CUST-143,Nippon Systems K.K. (CUST-143),Japan,Mid-Market,A,AM_04
+CUST-091,Lumière Distribution SA (CUST-091),France,Enterprise,AAA,AM_03
+CUST-135,Southern Cross Merchants (CUST-135),Australia,Enterprise,A,AM_05
+CUST-105,Nordic Electro AG (CUST-105),Germany,Mid-Market,AA,AM_02
+CUST-133,Albion Commerce Ltd (CUST-133),UK,Enterprise,AAA,AM_02
+CUST-098,Straits Trading Hub (CUST-098),Singapore,Strategic Account,AAA,AM_05
+CUST-033,Rhine Valley Distribution (CUST-033),Germany,Mid-Market,A,AM_02
+CUST-008,Lion City Logistics (CUST-008),Singapore,Enterprise,A,AM_04
+CUST-092,Southern Cross Merchants (CUST-092),Australia,Enterprise,A,AM_01
+CUST-132,Thames Logistics PLC (CUST-132),UK,Strategic Account,A,AM_03
+CUST-022,Outback Wholesale Pty (CUST-022),Australia,Strategic Account,A,AM_05
+CUST-059,Global Commercial Partner (CUST-059),Netherlands,Strategic Account,A,AM_04
+CUST-149,Albion Commerce Ltd (CUST-149),UK,Strategic Account,AAA,AM_01
+CUST-042,Global Commercial Partner (CUST-042),India,Enterprise,A,AM_04
+CUST-148,Global Commercial Partner (CUST-148),India,Enterprise,AAA,AM_04
+CUST-009,Delta Global Tech (CUST-009),USA,Mid-Market,A,AM_04
+CUST-012,Maple Leaf Outfitting (CUST-012),Canada,Enterprise,AAA,AM_04
+CUST-026,Great Northern Freight (CUST-026),Canada,Mid-Market,AAA,AM_02
+CUST-097,Global Commercial Partner (CUST-097),India,Strategic Account,A,AM_02
+CUST-134,Straits Trading Hub (CUST-134),Singapore,Strategic Account,AA,AM_01
+CUST-131,Global Commercial Partner (CUST-131),Netherlands,Mid-Market,A,AM_05
+CUST-104,Crown Maritime Stores (CUST-104),UK,Mid-Market,AA,AM_04
+CUST-103,Parisienne Logistique (CUST-103),France,Mid-Market,AAA,AM_03
+CUST-023,Sydney Supply Hub (CUST-023),Australia,Mid-Market,A,AM_05
+CUST-110,Stuttgart Fabrik UG (CUST-110),Germany,Strategic Account,A,AM_04
+CUST-023,Marina Bay Sourcing (CUST-023),Singapore,Mid-Market,A,AM_05
+CUST-047,Bavaria Precision GmbH (CUST-047),Germany,Mid-Market,AAA,AM_02
+CUST-112,Empire Wholesale Group (CUST-112),USA,Mid-Market,AAA,AM_05
+CUST-035,Crown Maritime Stores (CUST-035),UK,Enterprise,AA,AM_04
+CUST-087,Delta Global Tech (CUST-087),USA,Strategic Account,A,AM_04
+CUST-100,Sydney Supply Hub (CUST-100),Australia,Mid-Market,AAA,AM_02
+CUST-096,Parisienne Logistique (CUST-096),France,Mid-Market,AA,AM_03
+CUST-074,Nordic Electro AG (CUST-074),Germany,Strategic Account,AA,AM_01
+CUST-009,Marina Bay Sourcing (CUST-009),Singapore,Mid-Market,A,AM_04
+CUST-035,Lion City Logistics (CUST-035),Singapore,Enterprise,AA,AM_04
+CUST-060,Haute Garonne Industries (CUST-060),France,Strategic Account,A,AM_03
+CUST-030,Bavaria Precision GmbH (CUST-030),Germany,Mid-Market,AAA,AM_05
+CUST-043,Rhine Valley Distribution (CUST-043),Germany,Strategic Account,A,AM_02
+CUST-029,Bavaria Precision GmbH (CUST-029),Germany,Mid-Market,AAA,AM_01
+CUST-015,Global Commercial Partner (CUST-015),Netherlands,Strategic Account,AAA,AM_03
+CUST-097,Straits Trading Hub (CUST-097),Singapore,Strategic Account,A,AM_02
+CUST-146,Stuttgart Fabrik UG (CUST-146),Germany,Strategic Account,A,AM_03
+CUST-079,Lion City Logistics (CUST-079),Singapore,Enterprise,A,AM_03
+CUST-106,Crown Maritime Stores (CUST-106),UK,Strategic Account,AA,AM_02
+CUST-145,Nippon Systems K.K. (CUST-145),Japan,Mid-Market,A,AM_04
+CUST-099,Straits Trading Hub (CUST-099),Singapore,Strategic Account,AAA,AM_02
+CUST-103,Marina Bay Sourcing (CUST-103),Singapore,Mid-Market,AAA,AM_03
+CUST-095,Lion City Logistics (CUST-095),Singapore,Enterprise,A,AM_03
+CUST-103,Global Commercial Partner (CUST-103),Netherlands,Mid-Market,AAA,AM_03
+CUST-095,Global Commercial Partner (CUST-095),Netherlands,Enterprise,A,AM_03
+CUST-078,Lumière Distribution SA (CUST-078),France,Enterprise,AAA,AM_04
+CUST-045,Delta Global Tech (CUST-045),USA,Strategic Account,A,AM_04
+CUST-131,Empire Wholesale Group (CUST-131),USA,Mid-Market,A,AM_05
+CUST-097,Vanguard Electronics (CUST-097),UK,Strategic Account,A,AM_02
+CUST-126,Osaka Global Trading (CUST-126),Japan,Strategic Account,AA,AM_03
+CUST-018,Global Commercial Partner (CUST-018),Netherlands,Enterprise,A,AM_04
+CUST-116,Global Commercial Partner (CUST-116),India,Mid-Market,A,AM_05
+CUST-023,Thames Logistics PLC (CUST-023),UK,Mid-Market,A,AM_05
+CUST-048,Crown Maritime Stores (CUST-048),UK,Strategic Account,AA,AM_02
+CUST-073,Lion City Logistics (CUST-073),Singapore,Enterprise,A,AM_02
+CUST-121,Lumière Distribution SA (CUST-121),France,Enterprise,AA,AM_04
+CUST-144,Marina Bay Sourcing (CUST-144),Singapore,Mid-Market,AA,AM_04
+CUST-102,Straits Trading Hub (CUST-102),Singapore,Strategic Account,A,AM_02
+CUST-045,Rhine Valley Distribution (CUST-045),Germany,Strategic Account,A,AM_04
+CUST-003,Beacon Logistics Corp (CUST-003),USA,Mid-Market,AAA,AM_02
+CUST-009,Global Commercial Partner (CUST-009),India,Mid-Market,A,AM_04
+CUST-139,Nippon Systems K.K. (CUST-139),Japan,Mid-Market,AAA,AM_01
+CUST-121,Crown Maritime Stores (CUST-121),UK,Enterprise,AA,AM_04
+CUST-047,Great Northern Freight (CUST-047),Canada,Mid-Market,AAA,AM_02
+CUST-132,Crestview Retailers (CUST-132),USA,Strategic Account,A,AM_03
+CUST-017,Rhine Valley Distribution (CUST-017),Germany,Mid-Market,A,AM_05
+CUST-077,Beacon Logistics Corp (CUST-077),USA,Enterprise,AAA,AM_02
+CUST-125,Global Commercial Partner (CUST-125),India,Mid-Market,AAA,AM_04
+CUST-102,Haute Garonne Industries (CUST-102),France,Strategic Account,A,AM_02
+CUST-090,Crown Maritime Stores (CUST-090),UK,Mid-Market,AA,AM_04
+CUST-074,Outback Wholesale Pty (CUST-074),Australia,Strategic Account,AA,AM_01
+CUST-122,Osaka Global Trading (CUST-122),Japan,Strategic Account,A,AM_03
+CUST-104,Nordic Electro AG (CUST-104),Germany,Mid-Market,AA,AM_04
+CUST-070,Kanto Components Co (CUST-070),Japan,Enterprise,AAA,AM_01
+CUST-079,Southern Cross Merchants (CUST-079),Australia,Enterprise,A,AM_03
+CUST-110,Delta Global Tech (CUST-110),USA,Strategic Account,A,AM_04
+CUST-014,Straits Trading Hub (CUST-014),Singapore,Strategic Account,A,AM_02
+CUST-019,Crown Maritime Stores (CUST-019),UK,Enterprise,AA,AM_03
+CUST-038,Global Commercial Partner (CUST-038),India,Strategic Account,A,AM_04
+CUST-053,Pacific Horizon Ltd (CUST-053),Canada,Strategic Account,AA,AM_01
+CUST-054,Global Commercial Partner (CUST-054),Netherlands,Strategic Account,A,AM_04
+CUST-121,Southern Cross Merchants (CUST-121),Australia,Enterprise,AA,AM_04
+CUST-027,Lion City Logistics (CUST-027),Singapore,Enterprise,AA,AM_05
+CUST-136,Straits Trading Hub (CUST-136),Singapore,Strategic Account,AAA,AM_03
+CUST-070,Apex Industrial Supply (CUST-070),USA,Enterprise,AAA,AM_01
+CUST-044,Lumière Distribution SA (CUST-044),France,Enterprise,AA,AM_03
+CUST-056,Thames Logistics PLC (CUST-056),UK,Strategic Account,A,AM_04
+CUST-143,Sydney Supply Hub (CUST-143),Australia,Mid-Market,A,AM_04
+CUST-121,Nordic Electro AG (CUST-121),Germany,Enterprise,AA,AM_04
+CUST-006,Haute Garonne Industries (CUST-006),France,Strategic Account,A,AM_02
+CUST-150,Global Commercial Partner (CUST-150),India,Strategic Account,AA,AM_05
+CUST-074,Straits Trading Hub (CUST-074),Singapore,Strategic Account,AA,AM_01
+CUST-041,Stuttgart Fabrik UG (CUST-041),Germany,Mid-Market,A,AM_02
+CUST-038,Delta Global Tech (CUST-038),USA,Strategic Account,A,AM_04
+CUST-132,Osaka Global Trading (CUST-132),Japan,Strategic Account,A,AM_03
+CUST-139,Bavaria Precision GmbH (CUST-139),Germany,Mid-Market,AAA,AM_01
+CUST-030,Great Northern Freight (CUST-030),Canada,Mid-Market,AAA,AM_05
+CUST-068,Pacific Horizon Ltd (CUST-068),Canada,Strategic Account,AA,AM_01
+CUST-131,Great Northern Freight (CUST-131),Canada,Mid-Market,A,AM_05
+CUST-061,Global Commercial Partner (CUST-061),Netherlands,Mid-Market,AAA,AM_02
+CUST-092,Thames Logistics PLC (CUST-092),UK,Enterprise,A,AM_01
+CUST-015,Haute Garonne Industries (CUST-015),France,Strategic Account,AAA,AM_03
+CUST-055,Rhine Valley Distribution (CUST-055),Germany,Enterprise,A,AM_03
+CUST-059,Delta Global Tech (CUST-059),USA,Strategic Account,A,AM_04
+CUST-088,Global Commercial Partner (CUST-088),Netherlands,Enterprise,A,AM_02
+CUST-016,Lumière Distribution SA (CUST-016),France,Enterprise,AA,AM_03
+CUST-042,Lion City Logistics (CUST-042),Singapore,Enterprise,A,AM_04
+CUST-115,Maple Leaf Outfitting (CUST-115),Canada,Enterprise,AAA,AM_02
+CUST-122,Straits Trading Hub (CUST-122),Singapore,Strategic Account,A,AM_03
+CUST-007,Global Commercial Partner (CUST-007),India,Strategic Account,A,AM_03
+CUST-083,Great Northern Freight (CUST-083),Canada,Mid-Market,AAA,AM_01
+CUST-126,Pacific Horizon Ltd (CUST-126),Canada,Strategic Account,AA,AM_03
+CUST-072,Sydney Supply Hub (CUST-072),Australia,Mid-Market,A,AM_04
+CUST-002,Vanguard Electronics (CUST-002),UK,Mid-Market,A,AM_01
+CUST-142,Global Commercial Partner (CUST-142),India,Enterprise,A,AM_02
+CUST-037,Lumière Distribution SA (CUST-037),France,Enterprise,A,AM_03
+CUST-067,Southern Cross Merchants (CUST-067),Australia,Enterprise,A,AM_02
+CUST-002,Nippon Systems K.K. (CUST-002),Japan,Mid-Market,A,AM_01
+CUST-112,Sydney Supply Hub (CUST-112),Australia,Mid-Market,AAA,AM_05
+CUST-065,Vanguard Electronics (CUST-065),UK,Enterprise,A,AM_03
+CUST-114,Empire Wholesale Group (CUST-114),USA,Strategic Account,AAA,AM_05
+CUST-136,Albion Commerce Ltd (CUST-136),UK,Strategic Account,AAA,AM_03
+CUST-135,Global Commercial Partner (CUST-135),Netherlands,Enterprise,A,AM_05
+CUST-108,Global Commercial Partner (CUST-108),India,Enterprise,A,AM_01
+CUST-013,Kanto Components Co (CUST-013),Japan,Enterprise,A,AM_04
+CUST-034,Maple Leaf Outfitting (CUST-034),Canada,Enterprise,AA,AM_02
+CUST-079,Global Commercial Partner (CUST-079),Netherlands,Enterprise,A,AM_03
+CUST-148,Kanto Components Co (CUST-148),Japan,Enterprise,AAA,AM_04
+CUST-036,Bavaria Precision GmbH (CUST-036),Germany,Enterprise,AAA,AM_03
+CUST-018,Maple Leaf Outfitting (CUST-018),Canada,Enterprise,A,AM_04
+CUST-138,Nordic Electro AG (CUST-138),Germany,Mid-Market,AA,AM_04
+CUST-099,Bavaria Precision GmbH (CUST-099),Germany,Strategic Account,AAA,AM_02
+CUST-133,Global Commercial Partner (CUST-133),Netherlands,Enterprise,AAA,AM_02
+CUST-080,Straits Trading Hub (CUST-080),Singapore,Strategic Account,A,AM_05
+CUST-102,Rhine Valley Distribution (CUST-102),Germany,Strategic Account,A,AM_02
+CUST-018,Kanto Components Co (CUST-018),Japan,Enterprise,A,AM_04
+CUST-095,Maple Leaf Outfitting (CUST-095),Canada,Enterprise,A,AM_03
+CUST-064,Osaka Global Trading (CUST-064),Japan,Strategic Account,A,AM_03
+CUST-137,Great Northern Freight (CUST-137),Canada,Mid-Market,A,AM_03
+CUST-062,Vanguard Electronics (CUST-062),UK,Strategic Account,A,AM_02
+CUST-112,Marina Bay Sourcing (CUST-112),Singapore,Mid-Market,AAA,AM_05
+CUST-025,Global Commercial Partner (CUST-025),Netherlands,Mid-Market,AA,AM_02
+CUST-148,Maple Leaf Outfitting (CUST-148),Canada,Enterprise,AAA,AM_04
+CUST-061,Beacon Logistics Corp (CUST-061),USA,Mid-Market,AAA,AM_02
+CUST-012,Lion City Logistics (CUST-012),Singapore,Enterprise,AAA,AM_04
+CUST-094,Parisienne Logistique (CUST-094),France,Mid-Market,A,AM_03
+CUST-120,Crestview Retailers (CUST-120),USA,Mid-Market,AA,AM_03
+CUST-069,Global Commercial Partner (CUST-069),Netherlands,Mid-Market,A,AM_02
+CUST-001,Pacific Horizon Ltd (CUST-001),Canada,Strategic Account,A,AM_01
+CUST-115,Kanto Components Co (CUST-115),Japan,Enterprise,AAA,AM_02
+CUST-098,Bavaria Precision GmbH (CUST-098),Germany,Strategic Account,AAA,AM_05
+CUST-130,Outback Wholesale Pty (CUST-130),Australia,Strategic Account,A,AM_02
+CUST-069,Marina Bay Sourcing (CUST-069),Singapore,Mid-Market,A,AM_02
+CUST-099,Pacific Horizon Ltd (CUST-099),Canada,Strategic Account,AAA,AM_02
+CUST-121,Maple Leaf Outfitting (CUST-121),Canada,Enterprise,AA,AM_04
+CUST-041,Parisienne Logistique (CUST-041),France,Mid-Market,A,AM_02
+CUST-057,Vanguard Electronics (CUST-057),UK,Strategic Account,A,AM_02
+CUST-149,Global Commercial Partner (CUST-149),Netherlands,Strategic Account,AAA,AM_01
+CUST-091,Lion City Logistics (CUST-091),Singapore,Enterprise,AAA,AM_03
+CUST-026,Albion Commerce Ltd (CUST-026),UK,Mid-Market,AAA,AM_02
+CUST-010,Bavaria Precision GmbH (CUST-010),Germany,Mid-Market,AAA,AM_05
+CUST-117,Empire Wholesale Group (CUST-117),USA,Mid-Market,AAA,AM_05
+CUST-097,Pacific Horizon Ltd (CUST-097),Canada,Strategic Account,A,AM_02
+CUST-057,Osaka Global Trading (CUST-057),Japan,Strategic Account,A,AM_02
+CUST-054,Osaka Global Trading (CUST-054),Japan,Strategic Account,A,AM_04
+CUST-046,Haute Garonne Industries (CUST-046),France,Strategic Account,AA,AM_04
+CUST-025,Nippon Systems K.K. (CUST-025),Japan,Mid-Market,AA,AM_02
+CUST-025,Marina Bay Sourcing (CUST-025),Singapore,Mid-Market,AA,AM_02
+CUST-132,Pacific Horizon Ltd (CUST-132),Canada,Strategic Account,A,AM_03
+CUST-087,Outback Wholesale Pty (CUST-087),Australia,Strategic Account,A,AM_04
+CUST-064,Straits Trading Hub (CUST-064),Singapore,Strategic Account,A,AM_03
+CUST-005,Global Commercial Partner (CUST-005),India,Strategic Account,A,AM_01
+CUST-141,Lumière Distribution SA (CUST-141),France,Enterprise,A,AM_05
+CUST-070,Lion City Logistics (CUST-070),Singapore,Enterprise,AAA,AM_01
+CUST-073,Beacon Logistics Corp (CUST-073),USA,Enterprise,A,AM_02
+CUST-104,Global Commercial Partner (CUST-104),India,Mid-Market,AA,AM_04
+CUST-053,Crown Maritime Stores (CUST-053),UK,Strategic Account,AA,AM_01
+CUST-125,Bavaria Precision GmbH (CUST-125),Germany,Mid-Market,AAA,AM_04
+CUST-128,Nippon Systems K.K. (CUST-128),Japan,Mid-Market,AA,AM_04
+CUST-085,Crestview Retailers (CUST-085),USA,Mid-Market,A,AM_03
+CUST-020,Empire Wholesale Group (CUST-020),USA,Mid-Market,A,AM_05
+CUST-057,Beacon Logistics Corp (CUST-057),USA,Strategic Account,A,AM_02
+CUST-002,Great Northern Freight (CUST-002),Canada,Mid-Market,A,AM_01
+CUST-016,Kanto Components Co (CUST-016),Japan,Enterprise,AA,AM_03
+CUST-030,Parisienne Logistique (CUST-030),France,Mid-Market,AAA,AM_05
+CUST-034,Beacon Logistics Corp (CUST-034),USA,Enterprise,AA,AM_02
+CUST-075,Global Commercial Partner (CUST-075),Netherlands,Mid-Market,A,AM_03
+CUST-104,Great Northern Freight (CUST-104),Canada,Mid-Market,AA,AM_04
+CUST-085,Great Northern Freight (CUST-085),Canada,Mid-Market,A,AM_03
+CUST-110,Global Commercial Partner (CUST-110),Netherlands,Strategic Account,A,AM_04
+CUST-067,Maple Leaf Outfitting (CUST-067),Canada,Enterprise,A,AM_02
+CUST-111,Sydney Supply Hub (CUST-111),Australia,Mid-Market,A,AM_03
+CUST-096,Crestview Retailers (CUST-096),USA,Mid-Market,AA,AM_03
+CUST-134,Pacific Horizon Ltd (CUST-134),Canada,Strategic Account,AA,AM_01
+CUST-055,Global Commercial Partner (CUST-055),Netherlands,Enterprise,A,AM_03
+CUST-053,Outback Wholesale Pty (CUST-053),Australia,Strategic Account,AA,AM_01
+CUST-051,Thames Logistics PLC (CUST-051),UK,Mid-Market,A,AM_01
+CUST-064,Global Commercial Partner (CUST-064),Netherlands,Strategic Account,A,AM_03
+CUST-144,Parisienne Logistique (CUST-144),France,Mid-Market,AA,AM_04
+CUST-138,Marina Bay Sourcing (CUST-138),Singapore,Mid-Market,AA,AM_04
+CUST-008,Global Commercial Partner (CUST-008),India,Enterprise,A,AM_04
+CUST-054,Rhine Valley Distribution (CUST-054),Germany,Strategic Account,A,AM_04
+CUST-075,Crestview Retailers (CUST-075),USA,Mid-Market,A,AM_03
+CUST-140,Lion City Logistics (CUST-140),Singapore,Enterprise,AA,AM_04
+CUST-045,Straits Trading Hub (CUST-045),Singapore,Strategic Account,A,AM_04
+CUST-124,Global Commercial Partner (CUST-124),India,Enterprise,AA,AM_01
+CUST-051,Apex Industrial Supply (CUST-051),USA,Mid-Market,A,AM_01
+CUST-141,Maple Leaf Outfitting (CUST-141),Canada,Enterprise,A,AM_05
+CUST-075,Parisienne Logistique (CUST-075),France,Mid-Market,A,AM_03
+CUST-007,Osaka Global Trading (CUST-007),Japan,Strategic Account,A,AM_03
+CUST-087,Rhine Valley Distribution (CUST-087),Germany,Strategic Account,A,AM_04
+CUST-085,Nippon Systems K.K. (CUST-085),Japan,Mid-Market,A,AM_03
+CUST-029,Great Northern Freight (CUST-029),Canada,Mid-Market,AAA,AM_01
+CUST-056,Outback Wholesale Pty (CUST-056),Australia,Strategic Account,A,AM_04
+CUST-077,Bavaria Precision GmbH (CUST-077),Germany,Enterprise,AAA,AM_02
+CUST-097,Beacon Logistics Corp (CUST-097),USA,Strategic Account,A,AM_02
+CUST-078,Global Commercial Partner (CUST-078),Netherlands,Enterprise,AAA,AM_04
+CUST-101,Pacific Horizon Ltd (CUST-101),Canada,Strategic Account,AAA,AM_01
+CUST-115,Lion City Logistics (CUST-115),Singapore,Enterprise,AAA,AM_02
+CUST-137,Rhine Valley Distribution (CUST-137),Germany,Mid-Market,A,AM_03
+CUST-025,Crown Maritime Stores (CUST-025),UK,Mid-Market,AA,AM_02
+CUST-110,Outback Wholesale Pty (CUST-110),Australia,Strategic Account,A,AM_04
+CUST-149,Apex Industrial Supply (CUST-149),USA,Strategic Account,AAA,AM_01
+CUST-054,Global Commercial Partner (CUST-054),India,Strategic Account,A,AM_04
+CUST-131,Stuttgart Fabrik UG (CUST-131),Germany,Mid-Market,A,AM_05
+CUST-044,Kanto Components Co (CUST-044),Japan,Enterprise,AA,AM_03
+CUST-141,Global Commercial Partner (CUST-141),India,Enterprise,A,AM_05
+CUST-001,Global Commercial Partner (CUST-001),Netherlands,Strategic Account,A,AM_01
+CUST-084,Crestview Retailers (CUST-084),USA,Strategic Account,AAA,AM_03
+CUST-112,Bavaria Precision GmbH (CUST-112),Germany,Mid-Market,AAA,AM_05
+CUST-013,Southern Cross Merchants (CUST-013),Australia,Enterprise,A,AM_04
+CUST-102,Global Commercial Partner (CUST-102),Netherlands,Strategic Account,A,AM_02
+CUST-005,Global Commercial Partner (CUST-005),Netherlands,Strategic Account,A,AM_01
+CUST-074,Apex Industrial Supply (CUST-074),USA,Strategic Account,AA,AM_01
+CUST-125,Nippon Systems K.K. (CUST-125),Japan,Mid-Market,AAA,AM_04
+CUST-053,Global Commercial Partner (CUST-053),Netherlands,Strategic Account,AA,AM_01
+CUST-135,Global Commercial Partner (CUST-135),India,Enterprise,A,AM_05
+CUST-141,Kanto Components Co (CUST-141),Japan,Enterprise,A,AM_05
+CUST-135,Vanguard Electronics (CUST-135),UK,Enterprise,A,AM_05
+CUST-005,Haute Garonne Industries (CUST-005),France,Strategic Account,A,AM_01
+CUST-013,Global Commercial Partner (CUST-013),Netherlands,Enterprise,A,AM_04
+CUST-001,Rhine Valley Distribution (CUST-001),Germany,Strategic Account,A,AM_01
+CUST-041,Global Commercial Partner (CUST-041),India,Mid-Market,A,AM_02
+CUST-134,Osaka Global Trading (CUST-134),Japan,Strategic Account,AA,AM_01
+CUST-040,Global Commercial Partner (CUST-040),India,Enterprise,A,AM_03
+CUST-141,Thames Logistics PLC (CUST-141),UK,Enterprise,A,AM_05
+CUST-145,Marina Bay Sourcing (CUST-145),Singapore,Mid-Market,A,AM_04
+CUST-124,Apex Industrial Supply (CUST-124),USA,Enterprise,AA,AM_01
+CUST-014,Outback Wholesale Pty (CUST-014),Australia,Strategic Account,A,AM_02
+CUST-068,Haute Garonne Industries (CUST-068),France,Strategic Account,AA,AM_01
+CUST-101,Global Commercial Partner (CUST-101),India,Strategic Account,AAA,AM_01
+CUST-105,Beacon Logistics Corp (CUST-105),USA,Mid-Market,AA,AM_02
+CUST-013,Lion City Logistics (CUST-013),Singapore,Enterprise,A,AM_04
+CUST-110,Global Commercial Partner (CUST-110),India,Strategic Account,A,AM_04
+CUST-044,Global Commercial Partner (CUST-044),India,Enterprise,AA,AM_03
+CUST-120,Great Northern Freight (CUST-120),Canada,Mid-Market,AA,AM_03
+CUST-060,Straits Trading Hub (CUST-060),Singapore,Strategic Account,A,AM_03
+CUST-116,Empire Wholesale Group (CUST-116),USA,Mid-Market,A,AM_05
+CUST-080,Global Commercial Partner (CUST-080),Netherlands,Strategic Account,A,AM_05
+CUST-007,Haute Garonne Industries (CUST-007),France,Strategic Account,A,AM_03
+CUST-053,Straits Trading Hub (CUST-053),Singapore,Strategic Account,AA,AM_01
+CUST-058,Sydney Supply Hub (CUST-058),Australia,Mid-Market,A,AM_05
+CUST-105,Global Commercial Partner (CUST-105),India,Mid-Market,AA,AM_02
+CUST-079,Rhine Valley Distribution (CUST-079),Germany,Enterprise,A,AM_03
+CUST-030,Marina Bay Sourcing (CUST-030),Singapore,Mid-Market,AAA,AM_05
+CUST-086,Empire Wholesale Group (CUST-086),USA,Mid-Market,A,AM_05
+CUST-020,Sydney Supply Hub (CUST-020),Australia,Mid-Market,A,AM_05
+CUST-075,Global Commercial Partner (CUST-075),India,Mid-Market,A,AM_03
+CUST-020,Great Northern Freight (CUST-020),Canada,Mid-Market,A,AM_05
+CUST-077,Global Commercial Partner (CUST-077),India,Enterprise,AAA,AM_02
+CUST-029,Global Commercial Partner (CUST-029),Netherlands,Mid-Market,AAA,AM_01
+CUST-028,Nordic Electro AG (CUST-028),Germany,Strategic Account,AA,AM_02
+CUST-123,Rhine Valley Distribution (CUST-123),Germany,Mid-Market,A,AM_04
+CUST-015,Pacific Horizon Ltd (CUST-015),Canada,Strategic Account,AAA,AM_03
+CUST-071,Global Commercial Partner (CUST-071),Netherlands,Mid-Market,AAA,AM_05
+CUST-146,Global Commercial Partner (CUST-146),India,Strategic Account,A,AM_03
+CUST-019,Global Commercial Partner (CUST-019),Netherlands,Enterprise,AA,AM_03
+CUST-056,Pacific Horizon Ltd (CUST-056),Canada,Strategic Account,A,AM_04
+CUST-091,Bavaria Precision GmbH (CUST-091),Germany,Enterprise,AAA,AM_03
+CUST-123,Thames Logistics PLC (CUST-123),UK,Mid-Market,A,AM_04
+CUST-009,Thames Logistics PLC (CUST-009),UK,Mid-Market,A,AM_04
+CUST-097,Stuttgart Fabrik UG (CUST-097),Germany,Strategic Account,A,AM_02
+CUST-101,Straits Trading Hub (CUST-101),Singapore,Strategic Account,AAA,AM_01
+CUST-019,Lumière Distribution SA (CUST-019),France,Enterprise,AA,AM_03
+CUST-027,Kanto Components Co (CUST-027),Japan,Enterprise,AA,AM_05
+CUST-117,Bavaria Precision GmbH (CUST-117),Germany,Mid-Market,AAA,AM_05
+CUST-069,Beacon Logistics Corp (CUST-069),USA,Mid-Market,A,AM_02
+CUST-058,Great Northern Freight (CUST-058),Canada,Mid-Market,A,AM_05
+CUST-131,Nippon Systems K.K. (CUST-131),Japan,Mid-Market,A,AM_05
+CUST-067,Rhine Valley Distribution (CUST-067),Germany,Enterprise,A,AM_02
+CUST-093,Global Commercial Partner (CUST-093),Netherlands,Strategic Account,AAA,AM_02
+CUST-005,Osaka Global Trading (CUST-005),Japan,Strategic Account,A,AM_01
+CUST-145,Vanguard Electronics (CUST-145),UK,Mid-Market,A,AM_04
+CUST-131,Vanguard Electronics (CUST-131),UK,Mid-Market,A,AM_05
+CUST-132,Rhine Valley Distribution (CUST-132),Germany,Strategic Account,A,AM_03
+CUST-136,Haute Garonne Industries (CUST-136),France,Strategic Account,AAA,AM_03
+CUST-100,Bavaria Precision GmbH (CUST-100),Germany,Mid-Market,AAA,AM_02
+CUST-033,Sydney Supply Hub (CUST-033),Australia,Mid-Market,A,AM_02
+CUST-119,Kanto Components Co (CUST-119),Japan,Enterprise,A,AM_01
+CUST-048,Haute Garonne Industries (CUST-048),France,Strategic Account,AA,AM_02
+CUST-010,Empire Wholesale Group (CUST-010),USA,Mid-Market,AAA,AM_05
+CUST-076,Osaka Global Trading (CUST-076),Japan,Strategic Account,AAA,AM_05
+CUST-060,Outback Wholesale Pty (CUST-060),Australia,Strategic Account,A,AM_03
+CUST-106,Nordic Electro AG (CUST-106),Germany,Strategic Account,AA,AM_02
+CUST-059,Outback Wholesale Pty (CUST-059),Australia,Strategic Account,A,AM_04
+CUST-012,Global Commercial Partner (CUST-012),Netherlands,Enterprise,AAA,AM_04
+CUST-100,Marina Bay Sourcing (CUST-100),Singapore,Mid-Market,AAA,AM_02
+CUST-139,Global Commercial Partner (CUST-139),India,Mid-Market,AAA,AM_01
+CUST-042,Kanto Components Co (CUST-042),Japan,Enterprise,A,AM_04
+CUST-076,Bavaria Precision GmbH (CUST-076),Germany,Strategic Account,AAA,AM_05
+CUST-116,Sydney Supply Hub (CUST-116),Australia,Mid-Market,A,AM_05
+CUST-058,Marina Bay Sourcing (CUST-058),Singapore,Mid-Market,A,AM_05
+CUST-111,Crestview Retailers (CUST-111),USA,Mid-Market,A,AM_03
+CUST-086,Marina Bay Sourcing (CUST-086),Singapore,Mid-Market,A,AM_05
+CUST-029,Parisienne Logistique (CUST-029),France,Mid-Market,AAA,AM_01
+CUST-067,Global Commercial Partner (CUST-067),Netherlands,Enterprise,A,AM_02
+CUST-102,Global Commercial Partner (CUST-102),India,Strategic Account,A,AM_02
+CUST-069,Thames Logistics PLC (CUST-069),UK,Mid-Market,A,AM_02
+CUST-147,Bavaria Precision GmbH (CUST-147),Germany,Enterprise,AAA,AM_04
+CUST-126,Straits Trading Hub (CUST-126),Singapore,Strategic Account,AA,AM_03
+CUST-133,Global Commercial Partner (CUST-133),India,Enterprise,AAA,AM_02
+CUST-105,Global Commercial Partner (CUST-105),Netherlands,Mid-Market,AA,AM_02
+CUST-098,Haute Garonne Industries (CUST-098),France,Strategic Account,AAA,AM_05
+CUST-150,Osaka Global Trading (CUST-150),Japan,Strategic Account,AA,AM_05
+CUST-041,Great Northern Freight (CUST-041),Canada,Mid-Market,A,AM_02
+CUST-055,Lion City Logistics (CUST-055),Singapore,Enterprise,A,AM_03
+CUST-010,Great Northern Freight (CUST-010),Canada,Mid-Market,AAA,AM_05
+CUST-094,Global Commercial Partner (CUST-094),India,Mid-Market,A,AM_03
+CUST-100,Beacon Logistics Corp (CUST-100),USA,Mid-Market,AAA,AM_02
+CUST-113,Nippon Systems K.K. (CUST-113),Japan,Mid-Market,A,AM_02
+CUST-024,Global Commercial Partner (CUST-024),Netherlands,Enterprise,AAA,AM_03
+CUST-145,Global Commercial Partner (CUST-145),Netherlands,Mid-Market,A,AM_04
+CUST-088,Thames Logistics PLC (CUST-088),UK,Enterprise,A,AM_02
+CUST-119,Global Commercial Partner (CUST-119),India,Enterprise,A,AM_01
+CUST-078,Lion City Logistics (CUST-078),Singapore,Enterprise,AAA,AM_04
+CUST-030,Global Commercial Partner (CUST-030),Netherlands,Mid-Market,AAA,AM_05
+CUST-042,Thames Logistics PLC (CUST-042),UK,Enterprise,A,AM_04
+CUST-067,Lumière Distribution SA (CUST-067),France,Enterprise,A,AM_02
+CUST-128,Crown Maritime Stores (CUST-128),UK,Mid-Market,AA,AM_04
+CUST-010,Marina Bay Sourcing (CUST-010),Singapore,Mid-Market,AAA,AM_05
+CUST-128,Parisienne Logistique (CUST-128),France,Mid-Market,AA,AM_04
+CUST-129,Great Northern Freight (CUST-129),Canada,Mid-Market,A,AM_02
+CUST-109,Global Commercial Partner (CUST-109),Netherlands,Enterprise,AAA,AM_02
+CUST-056,Haute Garonne Industries (CUST-056),France,Strategic Account,A,AM_04
+CUST-106,Global Commercial Partner (CUST-106),India,Strategic Account,AA,AM_02
+CUST-127,Apex Industrial Supply (CUST-127),USA,Strategic Account,AAA,AM_01
+CUST-111,Global Commercial Partner (CUST-111),Netherlands,Mid-Market,A,AM_03
+CUST-056,Delta Global Tech (CUST-056),USA,Strategic Account,A,AM_04
+CUST-093,Albion Commerce Ltd (CUST-093),UK,Strategic Account,AAA,AM_02
+CUST-039,Osaka Global Trading (CUST-039),Japan,Strategic Account,AA,AM_03
+CUST-032,Straits Trading Hub (CUST-032),Singapore,Strategic Account,A,AM_05
+CUST-127,Osaka Global Trading (CUST-127),Japan,Strategic Account,AAA,AM_01
+CUST-088,Maple Leaf Outfitting (CUST-088),Canada,Enterprise,A,AM_02
+CUST-042,Maple Leaf Outfitting (CUST-042),Canada,Enterprise,A,AM_04
+CUST-115,Global Commercial Partner (CUST-115),India,Enterprise,AAA,AM_02
+CUST-008,Kanto Components Co (CUST-008),Japan,Enterprise,A,AM_04
+CUST-129,Parisienne Logistique (CUST-129),France,Mid-Market,A,AM_02
+CUST-099,Global Commercial Partner (CUST-099),India,Strategic Account,AAA,AM_02
+CUST-049,Crown Maritime Stores (CUST-049),UK,Enterprise,AA,AM_02
+CUST-115,Beacon Logistics Corp (CUST-115),USA,Enterprise,AAA,AM_02
+CUST-145,Sydney Supply Hub (CUST-145),Australia,Mid-Market,A,AM_04
+CUST-062,Beacon Logistics Corp (CUST-062),USA,Strategic Account,A,AM_02
+CUST-055,Maple Leaf Outfitting (CUST-055),Canada,Enterprise,A,AM_03
+CUST-095,Southern Cross Merchants (CUST-095),Australia,Enterprise,A,AM_03
+CUST-018,Lion City Logistics (CUST-018),Singapore,Enterprise,A,AM_04
+CUST-022,Osaka Global Trading (CUST-022),Japan,Strategic Account,A,AM_05
+CUST-143,Vanguard Electronics (CUST-143),UK,Mid-Market,A,AM_04
+CUST-138,Global Commercial Partner (CUST-138),Netherlands,Mid-Market,AA,AM_04
+CUST-075,Stuttgart Fabrik UG (CUST-075),Germany,Mid-Market,A,AM_03
+CUST-042,Delta Global Tech (CUST-042),USA,Enterprise,A,AM_04
+CUST-139,Albion Commerce Ltd (CUST-139),UK,Mid-Market,AAA,AM_01
+CUST-099,Beacon Logistics Corp (CUST-099),USA,Strategic Account,AAA,AM_02
+CUST-009,Global Commercial Partner (CUST-009),Netherlands,Mid-Market,A,AM_04
+CUST-065,Crestview Retailers (CUST-065),USA,Enterprise,A,AM_03
+CUST-006,Osaka Global Trading (CUST-006),Japan,Strategic Account,A,AM_02
+CUST-033,Parisienne Logistique (CUST-033),France,Mid-Market,A,AM_02
+CUST-050,Marina Bay Sourcing (CUST-050),Singapore,Mid-Market,AAA,AM_03
+CUST-076,Pacific Horizon Ltd (CUST-076),Canada,Strategic Account,AAA,AM_05
+CUST-087,Osaka Global Trading (CUST-087),Japan,Strategic Account,A,AM_04
+CUST-095,Crestview Retailers (CUST-095),USA,Enterprise,A,AM_03
+CUST-086,Thames Logistics PLC (CUST-086),UK,Mid-Market,A,AM_05
+CUST-101,Apex Industrial Supply (CUST-101),USA,Strategic Account,AAA,AM_01
+CUST-087,Straits Trading Hub (CUST-087),Singapore,Strategic Account,A,AM_04
+CUST-007,Crestview Retailers (CUST-007),USA,Strategic Account,A,AM_03
+CUST-041,Sydney Supply Hub (CUST-041),Australia,Mid-Market,A,AM_02
+CUST-012,Lumière Distribution SA (CUST-012),France,Enterprise,AAA,AM_04
+CUST-114,Outback Wholesale Pty (CUST-114),Australia,Strategic Account,AAA,AM_05
+CUST-071,Albion Commerce Ltd (CUST-071),UK,Mid-Market,AAA,AM_05
+CUST-098,Pacific Horizon Ltd (CUST-098),Canada,Strategic Account,AAA,AM_05
+CUST-126,Global Commercial Partner (CUST-126),Netherlands,Strategic Account,AA,AM_03
+CUST-111,Stuttgart Fabrik UG (CUST-111),Germany,Mid-Market,A,AM_03
+CUST-098,Outback Wholesale Pty (CUST-098),Australia,Strategic Account,AAA,AM_05
+CUST-146,Pacific Horizon Ltd (CUST-146),Canada,Strategic Account,A,AM_03
+CUST-129,Sydney Supply Hub (CUST-129),Australia,Mid-Market,A,AM_02
+CUST-091,Crestview Retailers (CUST-091),USA,Enterprise,AAA,AM_03
+CUST-029,Albion Commerce Ltd (CUST-029),UK,Mid-Market,AAA,AM_01
+CUST-101,Global Commercial Partner (CUST-101),Netherlands,Strategic Account,AAA,AM_01
+CUST-048,Straits Trading Hub (CUST-048),Singapore,Strategic Account,AA,AM_02
+CUST-049,Lion City Logistics (CUST-049),Singapore,Enterprise,AA,AM_02
+CUST-014,Global Commercial Partner (CUST-014),India,Strategic Account,A,AM_02
+CUST-070,Southern Cross Merchants (CUST-070),Australia,Enterprise,AAA,AM_01
+CUST-110,Straits Trading Hub (CUST-110),Singapore,Strategic Account,A,AM_04
+CUST-142,Beacon Logistics Corp (CUST-142),USA,Enterprise,A,AM_02
+CUST-050,Parisienne Logistique (CUST-050),France,Mid-Market,AAA,AM_03
+CUST-045,Osaka Global Trading (CUST-045),Japan,Strategic Account,A,AM_04
+CUST-026,Bavaria Precision GmbH (CUST-026),Germany,Mid-Market,AAA,AM_02
+CUST-065,Maple Leaf Outfitting (CUST-065),Canada,Enterprise,A,AM_03
+CUST-125,Global Commercial Partner (CUST-125),Netherlands,Mid-Market,AAA,AM_04
+CUST-033,Global Commercial Partner (CUST-033),India,Mid-Market,A,AM_02
+CUST-028,Pacific Horizon Ltd (CUST-028),Canada,Strategic Account,AA,AM_02
+CUST-147,Global Commercial Partner (CUST-147),India,Enterprise,AAA,AM_04
+CUST-091,Southern Cross Merchants (CUST-091),Australia,Enterprise,AAA,AM_03
+CUST-120,Sydney Supply Hub (CUST-120),Australia,Mid-Market,AA,AM_03
+CUST-051,Rhine Valley Distribution (CUST-051),Germany,Mid-Market,A,AM_01
+CUST-129,Vanguard Electronics (CUST-129),UK,Mid-Market,A,AM_02
+CUST-049,Kanto Components Co (CUST-049),Japan,Enterprise,AA,AM_02
+CUST-065,Global Commercial Partner (CUST-065),India,Enterprise,A,AM_03
+CUST-105,Sydney Supply Hub (CUST-105),Australia,Mid-Market,AA,AM_02
+CUST-090,Nippon Systems K.K. (CUST-090),Japan,Mid-Market,AA,AM_04
+CUST-129,Marina Bay Sourcing (CUST-129),Singapore,Mid-Market,A,AM_02
+CUST-062,Haute Garonne Industries (CUST-062),France,Strategic Account,A,AM_02
+CUST-065,Southern Cross Merchants (CUST-065),Australia,Enterprise,A,AM_03
+CUST-040,Vanguard Electronics (CUST-040),UK,Enterprise,A,AM_03
+CUST-004,Lumière Distribution SA (CUST-004),France,Enterprise,A,AM_03
+CUST-001,Global Commercial Partner (CUST-001),India,Strategic Account,A,AM_01
+CUST-096,Crown Maritime Stores (CUST-096),UK,Mid-Market,AA,AM_03
+CUST-063,Sydney Supply Hub (CUST-063),Australia,Mid-Market,A,AM_02
+CUST-128,Global Commercial Partner (CUST-128),Netherlands,Mid-Market,AA,AM_04
+CUST-006,Pacific Horizon Ltd (CUST-006),Canada,Strategic Account,A,AM_02
+CUST-078,Global Commercial Partner (CUST-078),India,Enterprise,AAA,AM_04
+CUST-004,Global Commercial Partner (CUST-004),Netherlands,Enterprise,A,AM_03
+CUST-058,Stuttgart Fabrik UG (CUST-058),Germany,Mid-Market,A,AM_05
+CUST-097,Haute Garonne Industries (CUST-097),France,Strategic Account,A,AM_02
+CUST-115,Southern Cross Merchants (CUST-115),Australia,Enterprise,AAA,AM_02
+CUST-033,Marina Bay Sourcing (CUST-033),Singapore,Mid-Market,A,AM_02
+CUST-106,Straits Trading Hub (CUST-106),Singapore,Strategic Account,AA,AM_02
+CUST-150,Global Commercial Partner (CUST-150),Netherlands,Strategic Account,AA,AM_05
+CUST-015,Outback Wholesale Pty (CUST-015),Australia,Strategic Account,AAA,AM_03
+CUST-018,Global Commercial Partner (CUST-018),India,Enterprise,A,AM_04
+CUST-013,Global Commercial Partner (CUST-013),India,Enterprise,A,AM_04
+CUST-116,Rhine Valley Distribution (CUST-116),Germany,Mid-Market,A,AM_05
+CUST-030,Sydney Supply Hub (CUST-030),Australia,Mid-Market,AAA,AM_05
+CUST-009,Sydney Supply Hub (CUST-009),Australia,Mid-Market,A,AM_04
+CUST-092,Apex Industrial Supply (CUST-092),USA,Enterprise,A,AM_01
+CUST-125,Albion Commerce Ltd (CUST-125),UK,Mid-Market,AAA,AM_04
+CUST-105,Great Northern Freight (CUST-105),Canada,Mid-Market,AA,AM_02
+CUST-084,Osaka Global Trading (CUST-084),Japan,Strategic Account,AAA,AM_03
+CUST-068,Nordic Electro AG (CUST-068),Germany,Strategic Account,AA,AM_01
+CUST-116,Marina Bay Sourcing (CUST-116),Singapore,Mid-Market,A,AM_05
+CUST-064,Pacific Horizon Ltd (CUST-064),Canada,Strategic Account,A,AM_03
+CUST-140,Nordic Electro AG (CUST-140),Germany,Enterprise,AA,AM_04
+CUST-134,Haute Garonne Industries (CUST-134),France,Strategic Account,AA,AM_01
+CUST-068,Apex Industrial Supply (CUST-068),USA,Strategic Account,AA,AM_01
+CUST-106,Outback Wholesale Pty (CUST-106),Australia,Strategic Account,AA,AM_02
+CUST-067,Beacon Logistics Corp (CUST-067),USA,Enterprise,A,AM_02
+CUST-032,Pacific Horizon Ltd (CUST-032),Canada,Strategic Account,A,AM_05
+CUST-062,Stuttgart Fabrik UG (CUST-062),Germany,Strategic Account,A,AM_02
+CUST-124,Lion City Logistics (CUST-124),Singapore,Enterprise,AA,AM_01
+CUST-066,Thames Logistics PLC (CUST-066),UK,Enterprise,A,AM_04
+CUST-111,Global Commercial Partner (CUST-111),India,Mid-Market,A,AM_03
+CUST-026,Marina Bay Sourcing (CUST-026),Singapore,Mid-Market,AAA,AM_02
+CUST-093,Bavaria Precision GmbH (CUST-093),Germany,Strategic Account,AAA,AM_02
+CUST-063,Beacon Logistics Corp (CUST-063),USA,Mid-Market,A,AM_02
+CUST-092,Kanto Components Co (CUST-092),Japan,Enterprise,A,AM_01
+CUST-076,Global Commercial Partner (CUST-076),India,Strategic Account,AAA,AM_05
+CUST-085,Marina Bay Sourcing (CUST-085),Singapore,Mid-Market,A,AM_03
+CUST-107,Sydney Supply Hub (CUST-107),Australia,Mid-Market,AA,AM_02
+CUST-073,Kanto Components Co (CUST-073),Japan,Enterprise,A,AM_02
+CUST-117,Marina Bay Sourcing (CUST-117),Singapore,Mid-Market,AAA,AM_05
+CUST-021,Delta Global Tech (CUST-021),USA,Strategic Account,AAA,AM_04
+CUST-080,Pacific Horizon Ltd (CUST-080),Canada,Strategic Account,A,AM_05
+CUST-011,Global Commercial Partner (CUST-011),India,Enterprise,AAA,AM_02
+CUST-012,Kanto Components Co (CUST-012),Japan,Enterprise,AAA,AM_04
+CUST-144,Sydney Supply Hub (CUST-144),Australia,Mid-Market,AA,AM_04
+CUST-112,Great Northern Freight (CUST-112),Canada,Mid-Market,AAA,AM_05
+CUST-001,Outback Wholesale Pty (CUST-001),Australia,Strategic Account,A,AM_01
+CUST-094,Great Northern Freight (CUST-094),Canada,Mid-Market,A,AM_03
+CUST-142,Stuttgart Fabrik UG (CUST-142),Germany,Enterprise,A,AM_02
+CUST-130,Stuttgart Fabrik UG (CUST-130),Germany,Strategic Account,A,AM_02
+CUST-042,Global Commercial Partner (CUST-042),Netherlands,Enterprise,A,AM_04
+CUST-107,Nippon Systems K.K. (CUST-107),Japan,Mid-Market,AA,AM_02
+CUST-113,Parisienne Logistique (CUST-113),France,Mid-Market,A,AM_02
+CUST-144,Great Northern Freight (CUST-144),Canada,Mid-Market,AA,AM_04
+CUST-133,Kanto Components Co (CUST-133),Japan,Enterprise,AAA,AM_02
+CUST-016,Global Commercial Partner (CUST-016),India,Enterprise,AA,AM_03
+CUST-052,Crown Maritime Stores (CUST-052),UK,Strategic Account,AA,AM_05
+CUST-085,Vanguard Electronics (CUST-085),UK,Mid-Market,A,AM_03
+CUST-127,Bavaria Precision GmbH (CUST-127),Germany,Strategic Account,AAA,AM_01
+CUST-126,Crown Maritime Stores (CUST-126),UK,Strategic Account,AA,AM_03
+CUST-059,Pacific Horizon Ltd (CUST-059),Canada,Strategic Account,A,AM_04
+CUST-108,Maple Leaf Outfitting (CUST-108),Canada,Enterprise,A,AM_01
+CUST-132,Outback Wholesale Pty (CUST-132),Australia,Strategic Account,A,AM_03
+CUST-138,Great Northern Freight (CUST-138),Canada,Mid-Market,AA,AM_04
+CUST-134,Apex Industrial Supply (CUST-134),USA,Strategic Account,AA,AM_01
+CUST-004,Kanto Components Co (CUST-004),Japan,Enterprise,A,AM_03
+CUST-005,Rhine Valley Distribution (CUST-005),Germany,Strategic Account,A,AM_01
+CUST-090,Parisienne Logistique (CUST-090),France,Mid-Market,AA,AM_04
+CUST-052,Global Commercial Partner (CUST-052),Netherlands,Strategic Account,AA,AM_05
+CUST-031,Marina Bay Sourcing (CUST-031),Singapore,Mid-Market,A,AM_04
+CUST-051,Marina Bay Sourcing (CUST-051),Singapore,Mid-Market,A,AM_01
+CUST-056,Rhine Valley Distribution (CUST-056),Germany,Strategic Account,A,AM_04
+CUST-004,Lion City Logistics (CUST-004),Singapore,Enterprise,A,AM_03
+CUST-017,Marina Bay Sourcing (CUST-017),Singapore,Mid-Market,A,AM_05
+CUST-122,Thames Logistics PLC (CUST-122),UK,Strategic Account,A,AM_03
+CUST-023,Parisienne Logistique (CUST-023),France,Mid-Market,A,AM_05
+CUST-106,Osaka Global Trading (CUST-106),Japan,Strategic Account,AA,AM_02
+CUST-001,Osaka Global Trading (CUST-001),Japan,Strategic Account,A,AM_01
+CUST-011,Bavaria Precision GmbH (CUST-011),Germany,Enterprise,AAA,AM_02
+CUST-006,Global Commercial Partner (CUST-006),Netherlands,Strategic Account,A,AM_02
+CUST-010,Nippon Systems K.K. (CUST-010),Japan,Mid-Market,AAA,AM_05
+CUST-085,Sydney Supply Hub (CUST-085),Australia,Mid-Market,A,AM_03
+CUST-086,Nippon Systems K.K. (CUST-086),Japan,Mid-Market,A,AM_05
+CUST-123,Sydney Supply Hub (CUST-123),Australia,Mid-Market,A,AM_04
+CUST-101,Haute Garonne Industries (CUST-101),France,Strategic Account,AAA,AM_01
+CUST-009,Rhine Valley Distribution (CUST-009),Germany,Mid-Market,A,AM_04
+CUST-074,Global Commercial Partner (CUST-074),Netherlands,Strategic Account,AA,AM_01
+CUST-070,Lumière Distribution SA (CUST-070),France,Enterprise,AAA,AM_01
+CUST-019,Global Commercial Partner (CUST-019),India,Enterprise,AA,AM_03
+CUST-107,Great Northern Freight (CUST-107),Canada,Mid-Market,AA,AM_02
+CUST-069,Parisienne Logistique (CUST-069),France,Mid-Market,A,AM_02
+CUST-150,Haute Garonne Industries (CUST-150),France,Strategic Account,AA,AM_05
+CUST-020,Global Commercial Partner (CUST-020),Netherlands,Mid-Market,A,AM_05
+CUST-108,Stuttgart Fabrik UG (CUST-108),Germany,Enterprise,A,AM_01
+CUST-052,Osaka Global Trading (CUST-052),Japan,Strategic Account,AA,AM_05
+CUST-134,Outback Wholesale Pty (CUST-134),Australia,Strategic Account,AA,AM_01
+CUST-053,Haute Garonne Industries (CUST-053),France,Strategic Account,AA,AM_01
+CUST-035,Southern Cross Merchants (CUST-035),Australia,Enterprise,AA,AM_04
+CUST-004,Global Commercial Partner (CUST-004),India,Enterprise,A,AM_03
+CUST-145,Parisienne Logistique (CUST-145),France,Mid-Market,A,AM_04
+CUST-048,Beacon Logistics Corp (CUST-048),USA,Strategic Account,AA,AM_02
+CUST-069,Great Northern Freight (CUST-069),Canada,Mid-Market,A,AM_02
+CUST-043,Pacific Horizon Ltd (CUST-043),Canada,Strategic Account,A,AM_02
+CUST-083,Global Commercial Partner (CUST-083),India,Mid-Market,AAA,AM_01
+CUST-098,Osaka Global Trading (CUST-098),Japan,Strategic Account,AAA,AM_05
+CUST-080,Rhine Valley Distribution (CUST-080),Germany,Strategic Account,A,AM_05
+CUST-029,Nippon Systems K.K. (CUST-029),Japan,Mid-Market,AAA,AM_01
+CUST-034,Crown Maritime Stores (CUST-034),UK,Enterprise,AA,AM_02
+CUST-121,Global Commercial Partner (CUST-121),Netherlands,Enterprise,AA,AM_04
+CUST-034,Lion City Logistics (CUST-034),Singapore,Enterprise,AA,AM_02
+CUST-052,Empire Wholesale Group (CUST-052),USA,Strategic Account,AA,AM_05
+CUST-017,Nippon Systems K.K. (CUST-017),Japan,Mid-Market,A,AM_05
+CUST-089,Rhine Valley Distribution (CUST-089),Germany,Enterprise,A,AM_05
+CUST-117,Global Commercial Partner (CUST-117),Netherlands,Mid-Market,AAA,AM_05
+CUST-003,Bavaria Precision GmbH (CUST-003),Germany,Mid-Market,AAA,AM_02
+CUST-060,Osaka Global Trading (CUST-060),Japan,Strategic Account,A,AM_03
+CUST-045,Outback Wholesale Pty (CUST-045),Australia,Strategic Account,A,AM_04
+CUST-107,Nordic Electro AG (CUST-107),Germany,Mid-Market,AA,AM_02
+CUST-077,Southern Cross Merchants (CUST-077),Australia,Enterprise,AAA,AM_02
+CUST-070,Maple Leaf Outfitting (CUST-070),Canada,Enterprise,AAA,AM_01
+CUST-140,Global Commercial Partner (CUST-140),India,Enterprise,AA,AM_04
+CUST-019,Maple Leaf Outfitting (CUST-019),Canada,Enterprise,AA,AM_03
+CUST-017,Empire Wholesale Group (CUST-017),USA,Mid-Market,A,AM_05
+CUST-054,Haute Garonne Industries (CUST-054),France,Strategic Account,A,AM_04
+CUST-033,Beacon Logistics Corp (CUST-033),USA,Mid-Market,A,AM_02
+CUST-043,Global Commercial Partner (CUST-043),India,Strategic Account,A,AM_02
+CUST-148,Albion Commerce Ltd (CUST-148),UK,Enterprise,AAA,AM_04
+CUST-052,Pacific Horizon Ltd (CUST-052),Canada,Strategic Account,AA,AM_05
+CUST-059,Straits Trading Hub (CUST-059),Singapore,Strategic Account,A,AM_04
+CUST-104,Delta Global Tech (CUST-104),USA,Mid-Market,AA,AM_04
+CUST-051,Nippon Systems K.K. (CUST-051),Japan,Mid-Market,A,AM_01
+CUST-077,Lumière Distribution SA (CUST-077),France,Enterprise,AAA,AM_02
+CUST-059,Osaka Global Trading (CUST-059),Japan,Strategic Account,A,AM_04
+CUST-023,Empire Wholesale Group (CUST-023),USA,Mid-Market,A,AM_05
+CUST-071,Bavaria Precision GmbH (CUST-071),Germany,Mid-Market,AAA,AM_05
+CUST-015,Crestview Retailers (CUST-015),USA,Strategic Account,AAA,AM_03
+CUST-102,Pacific Horizon Ltd (CUST-102),Canada,Strategic Account,A,AM_02
+CUST-139,Sydney Supply Hub (CUST-139),Australia,Mid-Market,AAA,AM_01
+CUST-073,Global Commercial Partner (CUST-073),India,Enterprise,A,AM_02
+CUST-062,Outback Wholesale Pty (CUST-062),Australia,Strategic Account,A,AM_02
+CUST-142,Global Commercial Partner (CUST-142),Netherlands,Enterprise,A,AM_02
+CUST-035,Global Commercial Partner (CUST-035),India,Enterprise,AA,AM_04
+CUST-089,Global Commercial Partner (CUST-089),India,Enterprise,A,AM_05
+CUST-121,Kanto Components Co (CUST-121),Japan,Enterprise,AA,AM_04
+CUST-087,Haute Garonne Industries (CUST-087),France,Strategic Account,A,AM_04
+CUST-012,Delta Global Tech (CUST-012),USA,Enterprise,AAA,AM_04
+CUST-011,Global Commercial Partner (CUST-011),Netherlands,Enterprise,AAA,AM_02
+CUST-001,Thames Logistics PLC (CUST-001),UK,Strategic Account,A,AM_01
+CUST-038,Outback Wholesale Pty (CUST-038),Australia,Strategic Account,A,AM_04
+CUST-145,Global Commercial Partner (CUST-145),India,Mid-Market,A,AM_04
+CUST-083,Marina Bay Sourcing (CUST-083),Singapore,Mid-Market,AAA,AM_01
+CUST-044,Crown Maritime Stores (CUST-044),UK,Enterprise,AA,AM_03
+CUST-028,Osaka Global Trading (CUST-028),Japan,Strategic Account,AA,AM_02
+CUST-053,Nordic Electro AG (CUST-053),Germany,Strategic Account,AA,AM_01
+CUST-064,Outback Wholesale Pty (CUST-064),Australia,Strategic Account,A,AM_03
+CUST-107,Global Commercial Partner (CUST-107),India,Mid-Market,AA,AM_02
+CUST-140,Maple Leaf Outfitting (CUST-140),Canada,Enterprise,AA,AM_04
+CUST-011,Maple Leaf Outfitting (CUST-011),Canada,Enterprise,AAA,AM_02
+CUST-029,Global Commercial Partner (CUST-029),India,Mid-Market,AAA,AM_01
+CUST-014,Pacific Horizon Ltd (CUST-014),Canada,Strategic Account,A,AM_02
+CUST-031,Global Commercial Partner (CUST-031),Netherlands,Mid-Market,A,AM_04
+CUST-126,Crestview Retailers (CUST-126),USA,Strategic Account,AA,AM_03
+CUST-016,Crestview Retailers (CUST-016),USA,Enterprise,AA,AM_03
+CUST-102,Outback Wholesale Pty (CUST-102),Australia,Strategic Account,A,AM_02
+CUST-134,Global Commercial Partner (CUST-134),Netherlands,Strategic Account,AA,AM_01
+CUST-093,Straits Trading Hub (CUST-093),Singapore,Strategic Account,AAA,AM_02
+CUST-028,Global Commercial Partner (CUST-028),India,Strategic Account,AA,AM_02
+CUST-130,Haute Garonne Industries (CUST-130),France,Strategic Account,A,AM_02
+CUST-092,Global Commercial Partner (CUST-092),Netherlands,Enterprise,A,AM_01
+CUST-120,Parisienne Logistique (CUST-120),France,Mid-Market,AA,AM_03
+CUST-091,Kanto Components Co (CUST-091),Japan,Enterprise,AAA,AM_03
+CUST-119,Global Commercial Partner (CUST-119),Netherlands,Enterprise,A,AM_01
+CUST-078,Bavaria Precision GmbH (CUST-078),Germany,Enterprise,AAA,AM_04
+CUST-066,Rhine Valley Distribution (CUST-066),Germany,Enterprise,A,AM_04
+CUST-083,Albion Commerce Ltd (CUST-083),UK,Mid-Market,AAA,AM_01
+CUST-003,Marina Bay Sourcing (CUST-003),Singapore,Mid-Market,AAA,AM_02
+CUST-010,Global Commercial Partner (CUST-010),India,Mid-Market,AAA,AM_05
+CUST-014,Beacon Logistics Corp (CUST-014),USA,Strategic Account,A,AM_02
+CUST-011,Albion Commerce Ltd (CUST-011),UK,Enterprise,AAA,AM_02
+CUST-142,Vanguard Electronics (CUST-142),UK,Enterprise,A,AM_02
+CUST-050,Great Northern Freight (CUST-050),Canada,Mid-Market,AAA,AM_03
+CUST-063,Nippon Systems K.K. (CUST-063),Japan,Mid-Market,A,AM_02
+CUST-042,Southern Cross Merchants (CUST-042),Australia,Enterprise,A,AM_04
+CUST-135,Empire Wholesale Group (CUST-135),USA,Enterprise,A,AM_05
+CUST-064,Vanguard Electronics (CUST-064),UK,Strategic Account,A,AM_03
+CUST-056,Global Commercial Partner (CUST-056),Netherlands,Strategic Account,A,AM_04
+CUST-104,Global Commercial Partner (CUST-104),Netherlands,Mid-Market,AA,AM_04
+CUST-073,Southern Cross Merchants (CUST-073),Australia,Enterprise,A,AM_02
+CUST-150,Straits Trading Hub (CUST-150),Singapore,Strategic Account,AA,AM_05
+CUST-114,Global Commercial Partner (CUST-114),India,Strategic Account,AAA,AM_05
+CUST-149,Osaka Global Trading (CUST-149),Japan,Strategic Account,AAA,AM_01
+CUST-142,Lion City Logistics (CUST-142),Singapore,Enterprise,A,AM_02
+CUST-047,Albion Commerce Ltd (CUST-047),UK,Mid-Market,AAA,AM_02
+CUST-061,Nippon Systems K.K. (CUST-061),Japan,Mid-Market,AAA,AM_02
+CUST-046,Nordic Electro AG (CUST-046),Germany,Strategic Account,AA,AM_04
+CUST-086,Great Northern Freight (CUST-086),Canada,Mid-Market,A,AM_05
+CUST-008,Maple Leaf Outfitting (CUST-008),Canada,Enterprise,A,AM_04
+CUST-146,Straits Trading Hub (CUST-146),Singapore,Strategic Account,A,AM_03
+CUST-068,Crown Maritime Stores (CUST-068),UK,Strategic Account,AA,AM_01
+CUST-038,Thames Logistics PLC (CUST-038),UK,Strategic Account,A,AM_04
+CUST-038,Rhine Valley Distribution (CUST-038),Germany,Strategic Account,A,AM_04
+CUST-013,Delta Global Tech (CUST-013),USA,Enterprise,A,AM_04
+CUST-105,Parisienne Logistique (CUST-105),France,Mid-Market,AA,AM_02
+CUST-022,Empire Wholesale Group (CUST-022),USA,Strategic Account,A,AM_05
+CUST-007,Stuttgart Fabrik UG (CUST-007),Germany,Strategic Account,A,AM_03
+CUST-133,Maple Leaf Outfitting (CUST-133),Canada,Enterprise,AAA,AM_02
+CUST-054,Outback Wholesale Pty (CUST-054),Australia,Strategic Account,A,AM_04
+CUST-117,Sydney Supply Hub (CUST-117),Australia,Mid-Market,AAA,AM_05
+CUST-117,Great Northern Freight (CUST-117),Canada,Mid-Market,AAA,AM_05
+CUST-012,Southern Cross Merchants (CUST-012),Australia,Enterprise,AAA,AM_04
+CUST-149,Outback Wholesale Pty (CUST-149),Australia,Strategic Account,AAA,AM_01
+CUST-148,Southern Cross Merchants (CUST-148),Australia,Enterprise,AAA,AM_04
+CUST-137,Global Commercial Partner (CUST-137),Netherlands,Mid-Market,A,AM_03
+CUST-054,Delta Global Tech (CUST-054),USA,Strategic Account,A,AM_04
+CUST-004,Crestview Retailers (CUST-004),USA,Enterprise,A,AM_03
+CUST-087,Global Commercial Partner (CUST-087),India,Strategic Account,A,AM_04
+CUST-146,Osaka Global Trading (CUST-146),Japan,Strategic Account,A,AM_03
+CUST-127,Haute Garonne Industries (CUST-127),France,Strategic Account,AAA,AM_01
+CUST-087,Pacific Horizon Ltd (CUST-087),Canada,Strategic Account,A,AM_04
+CUST-057,Global Commercial Partner (CUST-057),Netherlands,Strategic Account,A,AM_02
+CUST-090,Delta Global Tech (CUST-090),USA,Mid-Market,AA,AM_04
+CUST-086,Rhine Valley Distribution (CUST-086),Germany,Mid-Market,A,AM_05
+CUST-006,Rhine Valley Distribution (CUST-006),Germany,Strategic Account,A,AM_02
+CUST-116,Nippon Systems K.K. (CUST-116),Japan,Mid-Market,A,AM_05
+CUST-117,Global Commercial Partner (CUST-117),India,Mid-Market,AAA,AM_05
+CUST-025,Beacon Logistics Corp (CUST-025),USA,Mid-Market,AA,AM_02
+CUST-119,Stuttgart Fabrik UG (CUST-119),Germany,Enterprise,A,AM_01
+CUST-052,Global Commercial Partner (CUST-052),India,Strategic Account,AA,AM_05
+CUST-045,Thames Logistics PLC (CUST-045),UK,Strategic Account,A,AM_04
+CUST-071,Nippon Systems K.K. (CUST-071),Japan,Mid-Market,AAA,AM_05
+CUST-109,Maple Leaf Outfitting (CUST-109),Canada,Enterprise,AAA,AM_02
+CUST-101,Osaka Global Trading (CUST-101),Japan,Strategic Account,AAA,AM_01
+CUST-120,Global Commercial Partner (CUST-120),Netherlands,Mid-Market,AA,AM_03
+CUST-008,Lumière Distribution SA (CUST-008),France,Enterprise,A,AM_04
+CUST-038,Haute Garonne Industries (CUST-038),France,Strategic Account,A,AM_04
+CUST-071,Sydney Supply Hub (CUST-071),Australia,Mid-Market,AAA,AM_05
+CUST-114,Pacific Horizon Ltd (CUST-114),Canada,Strategic Account,AAA,AM_05
+CUST-084,Global Commercial Partner (CUST-084),India,Strategic Account,AAA,AM_03
+CUST-050,Sydney Supply Hub (CUST-050),Australia,Mid-Market,AAA,AM_03
+CUST-149,Global Commercial Partner (CUST-149),India,Strategic Account,AAA,AM_01
+CUST-050,Global Commercial Partner (CUST-050),India,Mid-Market,AAA,AM_03
+CUST-121,Global Commercial Partner (CUST-121),India,Enterprise,AA,AM_04
+CUST-094,Rhine Valley Distribution (CUST-094),Germany,Mid-Market,A,AM_03
+CUST-003,Global Commercial Partner (CUST-003),Netherlands,Mid-Market,AAA,AM_02
+CUST-009,Parisienne Logistique (CUST-009),France,Mid-Market,A,AM_04
+CUST-143,Parisienne Logistique (CUST-143),France,Mid-Market,A,AM_04
+CUST-068,Global Commercial Partner (CUST-068),India,Strategic Account,AA,AM_01
+CUST-147,Albion Commerce Ltd (CUST-147),UK,Enterprise,AAA,AM_04
+CUST-108,Apex Industrial Supply (CUST-108),USA,Enterprise,A,AM_01
+CUST-065,Lion City Logistics (CUST-065),Singapore,Enterprise,A,AM_03
+CUST-062,Pacific Horizon Ltd (CUST-062),Canada,Strategic Account,A,AM_02
+CUST-019,Crestview Retailers (CUST-019),USA,Enterprise,AA,AM_03
+CUST-021,Haute Garonne Industries (CUST-021),France,Strategic Account,AAA,AM_04
+CUST-092,Maple Leaf Outfitting (CUST-092),Canada,Enterprise,A,AM_01
+CUST-065,Lumière Distribution SA (CUST-065),France,Enterprise,A,AM_03
+CUST-096,Global Commercial Partner (CUST-096),Netherlands,Mid-Market,AA,AM_03
+CUST-035,Lumière Distribution SA (CUST-035),France,Enterprise,AA,AM_04
+CUST-125,Marina Bay Sourcing (CUST-125),Singapore,Mid-Market,AAA,AM_04
+CUST-018,Delta Global Tech (CUST-018),USA,Enterprise,A,AM_04
+CUST-144,Nordic Electro AG (CUST-144),Germany,Mid-Market,AA,AM_04
+CUST-002,Parisienne Logistique (CUST-002),France,Mid-Market,A,AM_01
+CUST-035,Global Commercial Partner (CUST-035),Netherlands,Enterprise,AA,AM_04
+CUST-071,Empire Wholesale Group (CUST-071),USA,Mid-Market,AAA,AM_05
+CUST-026,Nippon Systems K.K. (CUST-026),Japan,Mid-Market,AAA,AM_02
+CUST-032,Haute Garonne Industries (CUST-032),France,Strategic Account,A,AM_05
+CUST-079,Kanto Components Co (CUST-079),Japan,Enterprise,A,AM_03
+CUST-042,Lumière Distribution SA (CUST-042),France,Enterprise,A,AM_04
+CUST-104,Nippon Systems K.K. (CUST-104),Japan,Mid-Market,AA,AM_04
+CUST-057,Global Commercial Partner (CUST-057),India,Strategic Account,A,AM_02
+CUST-049,Global Commercial Partner (CUST-049),Netherlands,Enterprise,AA,AM_02
+CUST-020,Parisienne Logistique (CUST-020),France,Mid-Market,A,AM_05
+CUST-080,Osaka Global Trading (CUST-080),Japan,Strategic Account,A,AM_05
+CUST-042,Rhine Valley Distribution (CUST-042),Germany,Enterprise,A,AM_04
+CUST-116,Parisienne Logistique (CUST-116),France,Mid-Market,A,AM_05
+CUST-003,Albion Commerce Ltd (CUST-003),UK,Mid-Market,AAA,AM_02
+CUST-124,Crown Maritime Stores (CUST-124),UK,Enterprise,AA,AM_01
+CUST-066,Lumière Distribution SA (CUST-066),France,Enterprise,A,AM_04
+CUST-037,Thames Logistics PLC (CUST-037),UK,Enterprise,A,AM_03
+CUST-032,Outback Wholesale Pty (CUST-032),Australia,Strategic Account,A,AM_05
+CUST-086,Global Commercial Partner (CUST-086),India,Mid-Market,A,AM_05
+CUST-054,Thames Logistics PLC (CUST-054),UK,Strategic Account,A,AM_04
+CUST-076,Global Commercial Partner (CUST-076),Netherlands,Strategic Account,AAA,AM_05
+CUST-027,Maple Leaf Outfitting (CUST-027),Canada,Enterprise,AA,AM_05
+CUST-027,Empire Wholesale Group (CUST-027),USA,Enterprise,AA,AM_05
+CUST-111,Vanguard Electronics (CUST-111),UK,Mid-Market,A,AM_03
+CUST-138,Sydney Supply Hub (CUST-138),Australia,Mid-Market,AA,AM_04
+CUST-089,Kanto Components Co (CUST-089),Japan,Enterprise,A,AM_05
+CUST-047,Global Commercial Partner (CUST-047),India,Mid-Market,AAA,AM_02
+CUST-103,Sydney Supply Hub (CUST-103),Australia,Mid-Market,AAA,AM_03
+CUST-079,Global Commercial Partner (CUST-079),India,Enterprise,A,AM_03
+CUST-056,Straits Trading Hub (CUST-056),Singapore,Strategic Account,A,AM_04
+CUST-027,Nordic Electro AG (CUST-027),Germany,Enterprise,AA,AM_05
+CUST-054,Straits Trading Hub (CUST-054),Singapore,Strategic Account,A,AM_04

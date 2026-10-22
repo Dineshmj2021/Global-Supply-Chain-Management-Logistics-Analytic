@@ -1,0 +1,7 @@
+WarehouseID,WarehouseName,Country,Region,City,MaxCapacityUnits,Manager,DailyOperatingCost
+WH-01,Chicago Logistics Hub,USA,North America,Chicago,180000,Sarah Jenkins,8500
+WH-02,Rotterdam Gateway Hub,Netherlands,Europe,Rotterdam,220000,Lars Van Der Berg,9200
+WH-03,Singapore APAC Facility,Singapore,Asia-Pacific,Singapore,250000,Wei Zhang,11000
+WH-04,Oakland Port Terminal,USA,North America,Oakland,160000,Marcus Vance,7800
+WH-05,Frankfurt Central Depot,Germany,Europe,Frankfurt,140000,Elena Schmidt,7400
+WH-06,Mumbai Express DC,India,South Asia,Mumbai,190000,Rajesh Sharma,6200

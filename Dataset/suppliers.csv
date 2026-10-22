@@ -1,0 +1,16 @@
+SupplierID,SupplierName,Country,Region,SupplierTier,TargetLeadTimeDays,TargetOTIFPct
+SUP-101,Apex Micro Technologies,USA,North America,Tier 1 - Strategic,10,96.5
+SUP-102,Precision Gearworks GmbH,Germany,Europe,Tier 1 - Strategic,14,95.0
+SUP-103,Nippon Dynamics Corp,Japan,Asia-Pacific,Tier 1 - Strategic,12,98.0
+SUP-104,Quantum Silicon Ltd,Taiwan,Asia-Pacific,Tier 1 - Strategic,8,97.2
+SUP-105,Rhine Industrial Castings,Germany,Europe,Tier 2 - Preferred,21,91.5
+SUP-106,Sino Assembly Group,China,Asia-Pacific,Tier 2 - Preferred,25,88.5
+SUP-107,EuroFab Connectors,Netherlands,Europe,Tier 2 - Preferred,15,93.0
+SUP-108,Nordic Polymer Solutions,Sweden,Europe,Tier 2 - Preferred,18,94.0
+SUP-109,Pacific Power Modules,South Korea,Asia-Pacific,Tier 1 - Strategic,10,96.0
+SUP-110,Bharat Precision Motors,India,South Asia,Tier 2 - Preferred,20,89.0
+SUP-111,Sonora Wiring Systems,Mexico,North America,Tier 3 - Standard,12,87.5
+SUP-112,Titanium Forgings Ltd,UK,Europe,Tier 3 - Standard,28,86.0
+SUP-113,Shenzhen OptoTech,China,Asia-Pacific,Tier 2 - Preferred,16,92.5
+SUP-114,Alpine Hydraulics AG,Switzerland,Europe,Tier 1 - Strategic,14,97.5
+SUP-115,Cascadia Composite Materials,Canada,North America,Tier 3 - Standard,15,90.0

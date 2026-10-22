@@ -1,0 +1,7 @@
+CarrierID,CarrierName,TransitMode,TargetSLA_Days,CostPerKgKm,ReliabilityRating
+CAR-01,DHL Global Forwarding,Air Freight,2,0.45,4.8
+CAR-02,FedEx Freight Express,Road Express,3,0.18,4.6
+CAR-03,Maersk Ocean Line,Ocean Cargo,18,0.04,4.2
+CAR-04,UPS Supply Chain,Road Express,4,0.16,4.5
+CAR-05,DB Schenker Multimodal,Rail Freight,7,0.09,4.3
+CAR-06,BlueDart Express,Air Freight,2,0.42,4.7
