@@ -36,7 +36,7 @@ PowerBI-SQL-Project/
 ├── PowerBI/
 │   ├── Interactive_Dashboard_Preview.html    # Live, fully interactive in-browser dashboard suite
 │   ├── Launch_Dashboard.bat                  # 1-click launcher to open live dashboard immediately
-│   ├── SupplyChain_Executive_Theme.json      # 1-click Power BI Dark Executive Theme import
+│   ├── SupplyChain_Executive_Theme.pbix    # 1-click Power BI Dark Executive Theme import
 │   ├── PowerBI_Setup_Guide.md                # 3-minute step-by-step setup walkthrough
 │   └── DAX_Measures.dax                      # 25+ production DAX formulas & color formatting
 │
